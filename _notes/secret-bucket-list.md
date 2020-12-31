@@ -34,7 +34,7 @@ The Secret Bucket List (SBL) is akin to the hidden objectives we talked about at
 
 So if all of this is true, how does one find an SBL experience? While it's not possible to wake up in the morning and decide "I'll cross something off my Secret Bucket List today," there are certainly ways to ensure that you encounter opportunities more often than not.
 
-- Surround yourself with [interesting people who do interesting things](#!)
+- Surround yourself with people doing interesting things (aka [[Know Cool People]])
 - See vacuums as an opportunity for exploration
 - Most importantly: don't be afraid to ask, and always try to say yes
 

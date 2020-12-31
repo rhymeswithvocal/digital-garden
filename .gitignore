@@ -13,3 +13,6 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+#example note I'm using as a guide
+_notes/your-first-note.md
