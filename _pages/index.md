@@ -23,3 +23,13 @@ I'm really compelled by this idea, so I'm trying to plant a garden of my own her
 
 {% include notes_graph.html %}
 
+<!-- <style>
+  .wrapper {
+    max-width: 46em;
+  }
+  .bord-it-up {
+  	border-style: solid;
+  	border-width: 2px;
+  	border-color: #941c2f;
+  }
+</style> -->
