@@ -8,14 +8,18 @@ permalink: /
 # Hi and welcome.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  This blog is meant as a place for me to think out loud, ponder with friends, and build an archive of personal knowledge.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+My most recent obsession is with the concept of [digital gardens](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/), which I originally found thanks to the [Robot Face newsletter](https://robotface.substack.com/). The concept is pretty simple: the Feed or Timeline format that dominates most social media is too transient and focused on the present moment. Thoughts pop up and fade away with little impact or connection. On the other end of this spectrum is the highly-durable and highly-polished content that gets printed in books. (As I type this, I realize that I'm visualizing an [awesome illustration from Maggie Appleton's blog.](https://maggieappleton.com/garden-history))
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+In the middle of this spectrum is the digital garden. A digital garden is a place online that has:
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+- Organization that is not linear or chronological
+- Ideas that live out in the open even when they are still in the process of being developed
+- Pages that are linked together through association, just like our thoughts
+
+I'm really compelled by this idea, so I'm trying to plant a garden of my own here on this site. I hope you'll poke around. 🌱
 
 <style>
   .wrapper {
