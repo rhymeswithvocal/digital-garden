@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: FAQs
+permalink: /faq
 ---
 
 The template I used to build this blog is by Maxime Vaillancourt, who you can find online [here](https://maximevaillancourt.com/).
