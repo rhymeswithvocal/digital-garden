@@ -21,7 +21,7 @@ I'm really compelled by this idea, so I'm trying to plant a garden of my own her
 
 # Map of the garden so far:
 
-<div class="bord-it-up">{% include notes_graph.html %}</div>
+{% include notes_graph.html %}
 
 <style>
   .wrapper {
