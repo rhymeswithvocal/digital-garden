@@ -1,6 +1,8 @@
 ---
-title: A note about cats
+title: Testing out some stuff
 ---
+
+[[firstnote]]
 
 This is a second note with a poem with cats. 
 
