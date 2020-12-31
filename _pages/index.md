@@ -21,6 +21,10 @@ In the middle of this spectrum is the digital garden. A digital garden is a plac
 
 I'm really compelled by this idea, so I'm trying to plant a garden of my own here on this site. I hope you'll poke around. 🌱
 
+#Map of the garden so far:
+
+{% include notes_graph.html %}
+
 <style>
   .wrapper {
     max-width: 46em;
