@@ -86,7 +86,6 @@ a {
     background: #c0d3fa;
   }
   &:after {
-    background: #c0d3fa;
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
@@ -99,7 +98,7 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: #c0d3fa !important;
   color: black !important;
 }
 
