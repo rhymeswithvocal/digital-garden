@@ -62,7 +62,7 @@ Now there's plenty of different approaches to maximizing our product, but probab
 
 ### More surprises means fewer expectations, means more happiness
 
-If we accept Tom Magliozzi's formula (sorry I don't know why this post has so much math) of **"happiness equals reality minus expectations"** then in order to be happier, we should strive to go into situations with minimal expectation. There are few situations where we can change our reality, so it's better to focus on the half of the equation we can affect. That means doing things where *we don't know* what to expect.
+If we accept Tom Magliozzi's formula of **"happiness equals reality minus expectations"** then in order to be happier, we should strive to go into situations with minimal expectation. There are few situations where we can change our reality, so it's better to focus on the half of the equation we can affect. That means doing things where *we don't know* what to expect.
 
 ## "Charlie, this sounds the same as just *trying new things"*
 
