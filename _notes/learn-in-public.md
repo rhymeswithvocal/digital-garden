@@ -1,5 +1,5 @@
 ---
-title: Learn in Public
+title: Learning in Public
 ---
 When I had my first decent internship last summer, I was amazed at how quickly and effectively I picked up the tech skills (mostly SQL) that I needed. I had gotten a shaky introduction the topic the semester before, but at the internship, I blew past my previous skill level. It felt great to learn and to use what I was learning.
 

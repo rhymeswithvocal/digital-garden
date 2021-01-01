@@ -1,7 +1,7 @@
 ---
 title: Lessons from Building this Site
 ---
-In the interest of doing some [[Learn in Public|learning in public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
+In the interest of doing some [[Learning in Public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
 
 Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaillancourt.com/) for use of his [open source template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) that I'm using.
 
@@ -11,4 +11,6 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 
 -Similar to the above: if you need a particular filetype on your new posts in order for them to be read, make sure you use it!
 
--In markdown, the titles of pages need to come after a space, otherwise it'll break the whole site push.
+-In markdown, the titles of pages need to come after a space, otherwise it'll break the whole site deploy.
+
+-Giving pages titles that will fit naturally into other sentences makes back-linking a lot easier and better-looking
