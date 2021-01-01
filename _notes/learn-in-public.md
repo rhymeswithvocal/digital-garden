@@ -17,5 +17,5 @@ It feels good to learn like this. Really good. When I decided that I wanted to s
 This blog (and the concept of [[Digital Gardens]] in general) takes advantage of that momentum, motivation, and feedback that comes with learning things in a visible space.
 
 ### Some great readings on this idea:
-**swyx.io** is probably the king of #LearninPublic so I'd be remiss not to [link his article](https://www.swyx.io/learn-in-public/) (and you'd be remiss not to read it)
-**Andy Matuschak** has a nice writeup about doing your work ["with the garage door up"](https://notes.andymatuschak.org/Work_with_the_garage_door_up) that illustrates the concept through a beautiful metaphor connecting [[business-and-art|tech folks with artists and craftspeople.]]
+**swyx.io** is probably the king of #LearninPublic so I'd be remiss not to [link his article](https://www.swyx.io/learn-in-public/) (and you'd be remiss not to read it)<br>
+**Andy Matuschak** has a nice writeup about doing your work ["with the garage door up"](https://notes.andymatuschak.org/Work_with_the_garage_door_up) that illustrates the concept through a beautiful metaphor connecting [[Business/Art Parallels|tech folks with artists and craftspeople.]]
