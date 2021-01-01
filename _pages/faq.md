@@ -24,6 +24,8 @@ Kind of. I think editing posts would go against the goal of the blog, but I love
 
 Since this blog is a digital garden, it doesn't operate on a regular write/publish cycle; it gets edited, updated, and ideated on in real time. If you found an empty page, that's someplace I want to put a post but haven't gotten to yet. If it's a broken link, feel free to bring it to my attention and I'll try to fix it soon!
 
-### What's this site?
+### How did you build this site?
 
-The template I used to build this blog is by Maxime Vaillancourt, who you can find online [here](https://maximevaillancourt.com/).
+This site is built using [Jekyll](https://jekyllrb.com/) and [Netlify](https://netlify.app/).
+
+The remarkable template I used to build this blog is by Maxime Vaillancourt, who you can find online [here](https://maximevaillancourt.com/).
