@@ -1,5 +1,5 @@
 ---
-title:Willingness to Jump
+title: Willingness to Jump
 ---
 
 This is a thing that I think is super important so I'm definitely going to write about it.

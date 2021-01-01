@@ -1,5 +1,5 @@
 ---
-title:Business/Art Parallels
+title: Business/Art Parallels
 ---
 ## Believing things will work requires an element of delusion
 ## Scenes are generative, supportive, hard to replicate
