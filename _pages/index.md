@@ -11,7 +11,7 @@ permalink: /
 
 If you're curious about the conceptual underpinnings of this blog, check out the post about the phenomenon of [[Digital Gardens]].
 
-If you're looking for a post, check below:
+If you're looking for a specific (or a non-specific) post, check below:
 
 # Map of the garden so far:
 

@@ -10,6 +10,8 @@ In the middle of this spectrum is the digital garden. A digital garden is a plac
 - Ideas that live out in the open even when they are still in the process of being developed
 - Pages that are linked together through association, just like our thoughts
 
+There's a lot of cool concepts to be connected to that of a digital garden, not least among them [[Learn in Public]].
+
 ### This blog is a digital garden.
 
 I don't want to worry that things aren't perfectly polished or 'ready' to grace the halls of the World Wide Web. This involves a certain [[Willingness to Jump]]
