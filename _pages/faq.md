@@ -28,4 +28,4 @@ Since this blog is a digital garden, it doesn't operate on a regular write/publi
 
 This site is built using [Jekyll](https://jekyllrb.com/) and [Netlify](https://netlify.app/).
 
-The remarkable template I used to build this blog is by Maxime Vaillancourt, who you can find online [here](https://maximevaillancourt.com/).
+The remarkable template I used to build this blog is by Maxime Vaillancourt, whom you can find online [here](https://maximevaillancourt.com/).

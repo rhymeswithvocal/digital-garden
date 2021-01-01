@@ -52,13 +52,13 @@ I don't assume there are many people who would refute this point. Having a great
 
 There's a law-of-averages math thing here that I have really been struggling to write out. So I'm just going to make it as explicit as possible with a little example.
 
-Let's say that every person has an 'enjoyment rate', $*y*$, that is the percentage of experiences (out of all possible experiences) they'll enjoy. Let's say that I'm easy to please, so my $y$ is 0.8. This means that if there's a trillion possible human experiences (lowballing that) I would enjoy 800 billion of them, and not like 200 billion of them.
+Let's say that every person has an 'enjoyment rate', `*y*`, that is the percentage of experiences (out of all possible experiences) they'll enjoy. Let's say that I'm easy to please, so my `y` is 0.8. This means that if there's a trillion possible human experiences (lowballing that) I would enjoy 800 billion of them, and not like 200 billion of them.
 
-Let's put in another variable, for number of new experiences per some amount of time (let's say a year) and call that variable $tr$. This means the number of experiences you enjoy in a year could be represented as:
+Let's put in another variable, for number of new experiences per some amount of time (let's say a year) and call that variable `tr`. This means the number of experiences you enjoy in a year could be represented as:
 
-$*tr•y*$ = number of enjoyed experiences
+`*tr•y*` = number of enjoyed experiences
 
-Now there's plenty of different approaches to maximizing our product, but probably the simplest is by making $tr$ bigger. Another possible approach would be increasing $y$ by strategically choosing things you're more likely to enjoy, but then we run into an issue with...
+Now there's plenty of different approaches to maximizing our product, but probably the simplest is by making `tr` bigger. Another possible approach would be increasing `y` by strategically choosing things you're more likely to enjoy, but then we run into an issue with...
 
 ### More surprises means fewer expectations, means more happiness
 
