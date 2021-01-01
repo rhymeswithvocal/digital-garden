@@ -1,9 +1,9 @@
 ---
 title: Lessons from Building this Site
 ---
-In the interest of doing some [[learn-in-public.md|learning in public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
+In the interest of doing some [[Learn in Public|learning in public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
 
-Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaillancourt.com/) for use of his [open source temlate](https://github.com/maximevaillancourt/digital-garden-jekyll-template) that I'm using.
+Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaillancourt.com/) for use of his [open source template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) that I'm using.
 
 ## Hard-learned lessons
 
