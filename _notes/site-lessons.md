@@ -1,5 +1,5 @@
 ---
-Lessons from Building this Site
+title: Lessons from Building this Site
 ---
 # Hard-learned lessons
 
