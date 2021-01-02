@@ -7,10 +7,11 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 
 ## Hard-learned lessons
 
--Keep careful track of your files. Especially if there's a different between `_pages` and `_notes` and you're trying to make changes show up in a particular file that you've accidentally duplicated into both of them.
+- Keep careful track of your files. Especially if there's a different between `_pages` and `_notes` and you're trying to make changes show up in a particular file that you've accidentally duplicated into both of them.
 
--Similar to the above: if you need a particular filetype on your new posts in order for them to be read, make sure you use it!
+- Similar to the above: if you need a particular filetype on your new posts in order for them to be read, make sure you use it!
 
--In markdown, the titles of pages need to come after a space, otherwise it'll break the whole site deploy.
+- In markdown, the titles of pages need to come after a space, otherwise it'll break the whole site deploy.
+	- turns out this is true of bullet points, as well!
 
--Giving pages titles that will fit naturally into other sentences makes back-linking a lot easier and better-looking
+- Giving pages titles that will fit naturally into other sentences makes back-linking a lot easier and better-looking
