@@ -16,4 +16,9 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 
 - Giving pages titles that will fit naturally into other sentences makes back-linking a lot easier and better-looking
 
-- The code that generates the back-links is sensitive! If you've got links on a page that aren't to another note, but contain within their url the name of another note, it'll think that you're linking that other note! (happened on this page with Max's `digital-garden` github linking to my note on Digital Gardens)
+- The code that generates the back-links is sensitive! If you've got links on a page that aren't to another note, but contain within their url the name of another note, it'll think that you're linking that other note! (happened on this page with Max's `digital-garden` github linking to my note on [[Digital Gardens]])
+	- There's something funny and meta to me about the fact that this page erroneously included a connection to the digital gardens page, but that error gave me a reason to include a real link to it.
+
+- Do your testing on the localhost because even though netlify is free, you've got limited build minutes and you'll burn through them real fast troubleshooting.
+
+- Hit save on your text-editor before you commit things to your git
