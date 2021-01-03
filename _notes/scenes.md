@@ -23,7 +23,7 @@ Eno offers the concept of scenius as a response to the myth of the Great Man, sa
 - **Mutual appreciation** -- the simultaneous uplifting and goading on of friendly competition and supportive exploration
 - **Rapid exchange of tools and techniques** -- creatives within a scene constantly borrowing and building on one another's good ideas
 - **Network effects of success** -- one person's success is the success of the scene, which elevates everyone and pushes the work forward
-- **Tolerance for the novelties** -- space is afforded for mavericks and renegades so that local [[bummer regimes]] won't harsh their (weird, transgressive, innovative) vibe
+- **Tolerance for the novelties** -- space is afforded for mavericks and renegades so that local [[wet blanket regimes]] won't harsh their (weird, transgressive, innovative) vibe
 
 ### In no particular order, some scenes that seem noteworthy:
 - Silicon Valley, for tech startups

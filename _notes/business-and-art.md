@@ -10,5 +10,8 @@ This is pretty similar to [[Willingness to Jump]]
 
 I realized pretty quickly writing about [[Scenes]] in general was going to have to be its own post, so if you want more on that, check it out.
 
+In general, scenes for artists and for entrepreneurs (mostly of the tech variety) are highly similar. You've got a bunch (or maybe a few) really passionate people all hanging out and swapping ideas. Their goal isn't to make something incredible or earth-shattering, just to have fun with their craft and have a good time building together. It's only once people outside the scene start looking in that the rest of the world realizes *wow, they've been crafting some really brilliant shit over here.*
+
+
 
 ## The big players have the ability to experiment and fail; little players do not
