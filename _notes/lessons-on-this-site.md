@@ -23,3 +23,5 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 - Hit save on your text-editor before you commit things to your git 😑
 
 - Sublime text has a spell-check! It's activated on a by-tab basis by hitting F6
+
+- Trying to remember and stick to a personal style guide re:headings, capitalization, etc. is difficult, so it'll probably be easier long-term to just go with whatever feels right, and over time there will probably be some consistency/consensus

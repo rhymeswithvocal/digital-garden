@@ -142,3 +142,9 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

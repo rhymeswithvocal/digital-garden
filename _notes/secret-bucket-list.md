@@ -52,17 +52,17 @@ I don't assume there are many people who would refute this point. Having a great
 
 There's a law-of-averages math thing here that I have really been struggling to write out. So I'm just going to make it as explicit as possible with a little example.
 
-Let's say that every person has an 'enjoyment rate', `*y*`, that is the percentage of experiences (out of all possible experiences) they'll enjoy. Let's say that I'm easy to please, so my `y` is 0.8. This means that if there's a trillion possible human experiences (lowballing that) I would enjoy 800 billion of them, and not like 200 billion of them.
+Let's say that every person has an 'enjoyment rate', `y`, that is the percentage of experiences (out of all possible experiences) they'll enjoy. Let's say that I'm easy to please, so my `y` is 0.8. This means that if there's a trillion possible human experiences (lowballing that) I would enjoy 800 billion of them, and not like 200 billion of them.
 
 Let's put in another variable, for number of new experiences per some amount of time (let's say a year) and call that variable `tr`. This means the number of experiences you enjoy in a year could be represented as:
 
-`*tr•y*` = number of enjoyed experiences
+`tr•y` = number of enjoyed experiences
 
 Now there's plenty of different approaches to maximizing our product, but probably the simplest is by making `tr` bigger. Another possible approach would be increasing `y` by strategically choosing things you're more likely to enjoy, but then we run into an issue with...
 
 ### More surprises means fewer expectations, means more happiness
 
-If we accept Tom Magliozzi's formula (sorry I don't know why this post has so much math) of **"happiness equals reality minus expectations"** then in order to be happier, we should strive to go into situations with minimal expectation. There are few situations where we can change our reality, so it's better to focus on the half of the equation we can affect. That means doing things where *we don't know* what to expect.
+If we accept Tom Magliozzi's formula of **"happiness equals reality minus expectations"** then in order to be happier, we should strive to go into situations with minimal expectation. There are few situations where we can change our reality, so it's better to focus on the half of the equation we can affect. That means doing things where *we don't know* what to expect.
 
 ## "Charlie, this sounds the same as just *trying new things"*
 
@@ -73,3 +73,40 @@ Ok, very fair point. However, trying new things has a counterintuitive issue:
 Secret Bucket Lists are populated when you're curious and open to things, not when you're trying to 'be adventurous' or 'get outside your comfort zone' because those come pre-loaded with expectations.
 
 Below, I've corresponded some of the shortcomings of trying new things with the ways they inform our process of finding Secret Bucket List items.
+
+<div class="row">
+	<div style="float: left; width: 50%;">
+		<h3>Issues with 'trying new things'</h3>
+		<ol>
+			<li> <b>Too based in what you already like</b> -- If you choose a new experience that's too close to what you already like, there's no stretch/growth/discovery, which is the point of trying new things. </li>
+			<li> <b>Judged too quickly</b> -- Whether you're trying a new food or traveling someplace off the beaten path, we're wired to categorize, which can diminish the experience's impact, especially if the judgment happens very quickly (another risk of expectations). </li>
+			<li> <b> Novelty for novelty's sake</b> -- When you're trying something new "just to try it" you've more or less said "this won't be meaningful beyond its newness" and that's extremely limiting. </li>
+			<li> <b>Quirky and random BS</b> -- If you grab something literally at-random off a travel blog or recipe website or what-have-you, your odds of enjoying it are much lower than if you allow the [[know cool people|people around you to be your suggestion algorithm]]. </li>
+		</ol>
+	</div>
+	<div style="float: left; width: 50%;">
+		<h3>SBL items fix it with:</h3>
+		<ol>
+			<li><b>Just outside of your normal</b> -- SBL items aren't far-flung from your normal (see bullet 4) but they offer enough of a challenge or shakeup to surprise you.</li>
+			<li> <b>Openness to more than 'good' or 'bad'</b> -- As we'll discuss in a moment, SBL items don't have to be good (or even neutral) to be SBL items.</li>
+			<li> <b>Potential expansion of your self-story</b> -- Without pre-judging an SBL item as a frivolous/one-off/unimportant thing, you give it the opportunity to change the way you see things/yourself and that's good!</li>
+			<li> <b>Based on your networks and resources</b> -- If you trust your friends (and you should) then some of your best SBL experiences are likely to come from saying 'yes' to something they suggest. At the very least, this tenant makes the cost of exploration a lot lower.</li>
+		</ol>
+	</div>
+</div>
+
+If you're not satisfied with that explanation, maybe you're right, and I am just talking about trying new things. At the very least, the Secret Bucket List might be a valuable retrospective tool to think about the new things you've tried.
+
+## SBL experiences don't need to be good; some of them won't be
+
+I don't have a ton more to say about this, but it's a worthwhile point: doing things where you aren't certain of the outcome is risky. 
+
+---
+
+# Some additional posts that will eventually flesh out the concept
+
+What holds us back from discovering SBL items
+
+My personal secret bucket list, explained
+
+> special thanks to Salem Zelalem for reading this post in its early stages
