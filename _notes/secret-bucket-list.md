@@ -99,7 +99,9 @@ If you're not satisfied with that explanation, maybe you're right, and I am just
 
 ## SBL experiences don't need to be good; some of them won't be
 
-I don't have a ton more to say about this, but it's a worthwhile point: doing things where you aren't certain of the outcome is risky. 
+I don't have a ton more to say about this, but it's a worthwhile point: doing things where you aren't certain of the outcome is risky. Some of the experiences you pursue thinking they might be Secret Bucket List additions may go horribly wrong. However, something going horribly wrong can also wind up on the Secret Bucket List. For instance, I once tried to go icefishing in Minnesota, but instead I got stranded in the middle of Indiana with a broken down car. The latter is still a good story, and still adds knowledge and value to my overall human existence, even if it did so in a way that was pretty painful and disappointing at the time.
+
+In the case of bad experiences that are nonetheless valuable, we see the Secret Bucket List intersect with the [[School of Hard Knocks]]
 
 ---
 
