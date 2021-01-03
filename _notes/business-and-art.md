@@ -1,7 +1,7 @@
 ---
 title: Business/Art Parallels
 ---
-I had a conversation with a friend recently about my relationship to art as I came into college and my relationship to entrepreneurship as I leave it. I realized in both cases, while I didn't want to pursue either thing full-time, it was still important that I be surrounded by the kinds of people who had an interest in it. And it made me realize that the creative impulse for artists and for entrepreneurs is pretty similar, and I'm always looking to be plugged into a scene with that kind of creative impulse.
+I had a conversation with a friend recently about my relationship to art as I came into college and my relationship to entrepreneurship as I leave it. I realized in both cases, while I didn't want to pursue either thing full-time, it was still important that I be surrounded by the kinds of people who had an interest in it. And it made me realize that the creative impulse for artists and for entrepreneurs is pretty similar, and I'm always looking to be plugged into a community with that kind of creative impulse.
 
 ## Believing things will work requires an element of delusion
 This is pretty similar to [[Willingness to Jump]]
