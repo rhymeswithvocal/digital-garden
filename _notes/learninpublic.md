@@ -12,10 +12,11 @@ Academic learning doesn't have the same feedback loops as on-the-job learning, w
 - a support network that understands your needs
 - tons of positive reinforcement when you're on-track
 
-It feels good to learn like this. Really good. When I decided that I wanted to start building some static sites, the very first thing I did was call a friend for whom I knew I could build something. I knew that having a project would motivate me much more than just following an online course, plus then I'd only learn things as they became relevant to me.
+It feels good to learn like this. Really good. But how do you replicate this when what you're learning isn't on-the-job? You trick other folks online into becoming your coworkers and classmates, doing your work and your learning out in the open. Part of doing your learning in the open, though, requires putting things out that are not completely polished, not all the way there. This violates one of the biggest [[laws of content]], and definitely requires you be [[willing to jump]].
 
-This blog (and the concept of [[Digital Gardens]] in general) takes advantage of that momentum, motivation, and feedback that comes with learning things in a visible space.
+This blog (and the concept of [[Digital Gardens]] in general) takes advantage of that momentum, motivation, and feedback that comes with learning things in a visible space. Rather than sticking all my thoughts into a Roam database or my notes app, I tend this garden here, online and fully visible. I push updates whether or not things feel *finished* because my focus is on stress-testing my own thinking and keeping a collection of my thoughts. If anybody gets something from it, that's a happy side-effect.
 
+---
 ### Some great readings on this idea:
 **swyx.io** is probably the king of #LearninPublic so I'd be remiss not to [link his article](https://www.swyx.io/learn-in-public/) (and you'd be remiss not to read it)
 

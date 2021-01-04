@@ -6,10 +6,10 @@ I think it's pretty hard to overstate the importance of a good scene. What's a s
 
 > ### any small group of people loosely-but-truly aligned on something ... producing public-facing work that's directed at each other
 
-Some things in that definition that initially surprised me:
-- loose alignment
-- public-facing
-- directed at each other
+So if we deconstruct some of the important elements from that definition:
+- **loose alignment** -- you don't need to be besties to be creating awesome work. Just look at the Beatles.
+- **public-facing** -- it's a little different than [[learning in public]] but creating in public is important because it holds you and your scene-mates to a certain standard
+- **directed at each other** -- 
 
 We'll return to those in a moment. To further build out this definition, I want to introduce the concept of...
 
@@ -19,7 +19,7 @@ Brian Eno coined the term [Scenius](https://medium.com/salvo-faraday/what-is-the
 
 Eno offers the concept of scenius as a response to the myth of the Great Man, saying that as an art student he believed that certain painters were just transcendently brilliant, and that's why we know their names today. However, given a little bit of research, you find that most of the 'greats' were in constant conversation with lots of other artists and creatives, and this propelled them forward.
 
-Eno posits that scenius is the "intelligence of a whole." Rather than individuals being brilliant in their own right, their brilliance is [[synergy|synergistic]] with the minds around them.
+Eno posits that scenius is the "intelligence of a whole." Rather than individuals being brilliant in their own right, their brilliance is [[synergy|synergistic]] with the minds around them. Great work creates more great work, creates even greater work.
 
 ### Eno (or perhaps a blog quoting him, it's unclear) gives some factors crucial to the "geography of scenius":
 - **Mutual appreciation** -- the simultaneous uplifting and goading on of friendly competition and supportive exploration
@@ -33,6 +33,7 @@ Eno posits that scenius is the "intelligence of a whole." Rather than individual
 - every tavern the Founding Fathers hung out in
 - Greenwich Village for the beat poets
 
+---
 ### Sources and resources
 - [This fun and thoughtful blog](https://www.packym.com/blog/conjuring-scenius) about Scenius and Hype Houses
 - There's a great bit in [The History of the World in 6 Glasses](https://www.amazon.com/dp/B002STNBRK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) that discusses the coffee-houses in London and how discussions within led to a lot of the great science of the time

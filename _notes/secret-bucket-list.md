@@ -30,9 +30,12 @@ If you google 'bucket list' you'll find countless blogs touting recommendations 
 
 (Ok, not much of a surprise since it's the title of the post.)
 
-The Secret Bucket List (SBL) is akin to the hidden objectives we talked about at the outset of our discussion. Your SBL is a secret **to you.** You don't know that a place, activity, or experience is out there waiting for you, but when you find it, you can recognize its significance. Much like the hidden objectives in a video game, it's not possible to know the items that are on your secret bucket list until after you have accomplished them.
+The Secret Bucket List (SBL) is akin to the hidden objectives we talked about at the outset of our discussion. Your SBL is a secret **to you.** You don't know that a place, activity, or experience is out there waiting for you, but when you find it, you can recognize that it's significant. Much like the hidden objectives in a video game, it's not possible to know the items that are on your secret bucket list until after you have accomplished them. And just like items on a normal bucket list, Secret Bucket List items are things that make your life feel richer, more interesting, and more fully-lived.
 
-So if all of this is true, how does one find an SBL experience? While it's not possible to wake up in the morning and decide "I'll cross something off my Secret Bucket List today," there are certainly ways to ensure that you encounter opportunities more often than not.
+> ### Quick Anecdote:
+> My second year of undergrad, I was looking for a low-commitment class to round out my schedule. I landed on a rock-climbing class, because it met infrequently, was pass/fail, and I figured it's never a bad thing to get a little exercise. Less than a year later, I was climbing regularly twice a week, in the best shape I'd ever been, and having a blast. I didn't go looking for a new hobby/passion, I just needed a class for my semester schedule. But giving an "eh, why not" to something new and kind of intriguing ended up morphing into a major milestone. Such is the impact of the Secret Bucket List.
+
+So if Secret Bucket Lists really are secret, how does one find experiences to add to them? While it's not possible to wake up in the morning and decide "I'll cross something off my Secret Bucket List today," there are certainly ways to ensure that you encounter opportunities more often than not.
 
 - Surround yourself with people doing interesting things (aka [[Know Cool People]])
 - See vacuums as an opportunity for exploration
@@ -101,7 +104,7 @@ If you're not satisfied with that explanation, maybe you're right, and I am just
 
 I don't have a ton more to say about this, but it's a worthwhile point: doing things where you aren't certain of the outcome is risky. Some of the experiences you pursue thinking they might be Secret Bucket List additions may go horribly wrong. However, something going horribly wrong can also wind up on the Secret Bucket List. For instance, I once tried to go icefishing in Minnesota, but instead I got stranded in the middle of Indiana with a broken down car. The latter is still a good story, and still adds knowledge and value to my overall human existence, even if it did so in a way that was pretty painful and disappointing at the time.
 
-In the case of bad experiences that are nonetheless valuable, we see the Secret Bucket List intersect with the [[School of Hard Knocks]]
+In the case of bad experiences that are nonetheless valuable, we see the Secret Bucket List intersect with the [[School of Hard Knocks]].
 
 ---
 
