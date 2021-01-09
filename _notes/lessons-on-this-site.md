@@ -19,6 +19,7 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 - The code that generates the back-links is sensitive! If you've got links on a page that aren't to another note, but contain within their url the name of another note, it'll think that you're linking that other note! (happened on this page with Max's `digital-garden` github linking to my note on Digital Gardens)
 
 - Do your testing on the localhost because even though netlify is free, you've got limited build minutes and you'll burn through them real fast troubleshooting.
+	- Actually, it turns out that the build minutes are tracked monthly, and there's basically no way you could use them all up in that time, so go nuts!
 
 - Hit save on your text-editor before you commit things to your git 😑
 
