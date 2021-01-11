@@ -26,3 +26,5 @@ Once again, a truly massive thanks to [Maxime Vaillaincourt](https://maximevaill
 - Sublime text has a spell-check! It's activated on a by-tab basis by hitting F6
 
 - Trying to remember and stick to a personal style guide re:headings, capitalization, etc. is difficult, so it'll probably be easier long-term to just go with whatever feels right, and over time there will probably be some consistency/consensus
+
+- The most joyous part of publishing this blog has to be watching the map on the homepage reconfigure itself, which is great because it incentivizes creating notes that are related to many others, and creating copious links
