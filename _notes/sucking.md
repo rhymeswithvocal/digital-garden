@@ -24,6 +24,14 @@ Jonny Sun had his own great take on this in his [book](https://www.amazon.com/dp
 
 <img src="../assets/isuck.png">
 
+## Technique
+
+I did want to take this opportunity to save an excellent quote from one of my professors
+
+> ### "Technique is the translation of the theoretical into the real"
+
+Which is to say, your skills and abilities in a particular craft make it possible to turn the things you're picturing in your head into an artistic product that exists in the real world. As a novice practitioner of an art form, your ability to visualize a project will always be stronger than your technique, thus the Taste Gap.
+
 ## Gifted Kids
 
 Roughly once a month, Twitter creates a tweet that looks something like this:
