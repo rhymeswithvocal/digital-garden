@@ -14,6 +14,6 @@ There's a lot of cool concepts to be connected to that of a digital garden, not 
 
 ### This blog is a digital garden.
 
-I don't want to worry that things aren't perfectly polished or 'ready' to grace the halls of the World Wide Web. This involves a certain [[Willingness to Jump]]
+I don't want to worry that things aren't perfectly polished or 'ready' to grace the halls of the World Wide Web. This involves a certain tolerance for some of my notes [[sucking]].
 
 I'm really compelled by this idea, so I'm trying to plant a garden of my own here on this site. I hope you'll poke around. 🌱

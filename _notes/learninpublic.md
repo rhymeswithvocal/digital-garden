@@ -14,6 +14,8 @@ Academic learning doesn't have the same feedback loops as on-the-job learning, w
 
 It feels good to learn like this. Really good. But how do you replicate this when what you're learning isn't on-the-job? You trick other folks online into becoming your coworkers and classmates, doing your work and your learning out in the open. Part of doing your learning in the open, though, requires putting things out that are not completely polished, not all the way there. This violates one of the biggest [[laws of content]], and definitely requires you be comfortable [[sucking]] sometimes.
 
+One of the biggest benefits of doing your work in public is that you're visible to [[cool people]] that are doing similar work to you. This is one route to finding yourself one or more [[scenes]], simply by letting collaborators find their way to you via your public content.
+
 This blog (and the concept of [[Digital Gardens]] in general) takes advantage of that momentum, motivation, and feedback that comes with learning things in a visible space. Rather than sticking all my thoughts into a Roam database or my notes app, I tend this garden here, online and fully visible. I push updates whether or not things feel *finished* because my focus is on stress-testing my own thinking and keeping a collection of my thoughts. If anybody gets something from it, that's a happy side-effect.
 
 ---
