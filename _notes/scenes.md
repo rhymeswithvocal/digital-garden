@@ -32,7 +32,7 @@ Eno posits that scenius is the "intelligence of a whole." Rather than individual
 Building scenes is really difficult. Folks like Visa who are proponents of [[learning in public]] might posit that you don't need to go looking for scene-mates, just do your work 
 
 ---
-### Sources and resources
+### Sources, resources, links
 - [This fun and thoughtful blog](https://www.packym.com/blog/conjuring-scenius) about Scenius and Hype Houses
 - There's a great bit in [The History of the World in 6 Glasses](https://www.amazon.com/dp/B002STNBRK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) that discusses the coffee-houses in London and how discussions within led to a lot of the great science of the time
 	- And I read [this cool blog post](https://medium.com/@drewdennis/how-caffeine-accelerated-the-scientific-enlightenment-f794d7c5c434) to make sure I was remembering that correctly

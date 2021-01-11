@@ -5,7 +5,7 @@ title: Writing is Rewriting
 Editing is the hardest part of any pursuit, which is why it's also the most important. Whether it's a song, a script, an article, or even just an email, there's nothing quite as arduous as the process of taking your first attempt and making it better.
 
 Editing is hard for plenty of reasons:
-- it's long, repetitive, and tedious
+- it's long, repetitive, solitary, and tedious
 - it doesn't create the same joy of accomplishment that first drafts do
 - it involves looking closely at the parts of your work that [[sucking|suck]]
 
