@@ -16,21 +16,21 @@ The basics:
 - Enjoying a medium usually means you have strong taste for what is good and what isn't.
 - Beginning a new creative pursuit, your own work will not meet your taste.
 
-From there, Glass arrives at the same wisdom as Jake the Dog. You have to make a lot of sucky stuff before you can start making 'sort of good' stuff, and so on. Glass says that all the successful creative people he knows went through a period (of years, he says) of creating things that weren't very good. Glass continues to say that the only way to deal with this problem is to work through it, to keep creating until you close the Taste Gap.
+From there, Glass arrives at the same wisdom as Jake the Dog. You have to make a lot of sucky stuff before you can start making 'sort of good' stuff, and so on. Glass says that all the successful creative people he knows went through a period (of years) of creating things that weren't very good. Glass continues to say that the only way to deal with this problem is to work through it, to keep creating until you close the Taste Gap.
 
 Shouldn't that be easy? "Just keep doing the thing you love, even if your output doesn't meet your own standards. Just keep doing it." The answer of course is: NO. No that's not easy, that sucks! I suck!
 
 Jonny Sun had his own great take on this in his [book](https://www.amazon.com/dp/B072LZXXB8):
 
-<img src="../assets/isuck.png">
+<img src="../assets/isuck.jpg">
 
 ## Technique
 
 I did want to take this opportunity to save an excellent quote from one of my professors
 
-> ### "Technique is the translation of the theoretical into the real"
+> "Technique is the translation of the theoretical into the real"
 
-Which is to say, your skills and abilities in a particular craft make it possible to turn the things you're picturing in your head into an artistic product that exists in the real world. As a novice practitioner of an art form, your ability to visualize a project will always be stronger than your technique, thus the Taste Gap.
+Which is to say, your skills and abilities in a particular craft make it possible to turn the things you're picturing in your head into an artistic product that exists in the real world. As a novice practitioner of an art form, your ability to visualize a project will always be stronger than your technique, thus creating a Taste Gap.
 
 ## Gifted Kids
 

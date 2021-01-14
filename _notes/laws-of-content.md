@@ -5,7 +5,7 @@ A couple of ways the internet incentivizes making **lots** of mediocre and/or di
 
 ### Too Much Content
 
-Space on the internet is free, with nobody to gate-keep what you can or can't post.
+Space on the internet is free, with nobody to gate-keep what you can or can't post. So 
 
 ### Dishonest Content
 
@@ -15,7 +15,7 @@ What's the difference between dishonesty and [[faking it]]?
 
 ### Clicks are a Terrible Measure of Worth
 
-In the attention economy, all of these practices make business sense. Dishonesty gets you more clicks per post, putting out constant drivel creates more aggregate clicks. The problem is that this creates an internet that looks like a never-ending tabloid rack in the grocery store checkout line. Shocking headlines about people you don't care about, personalities famous for their own fame, nothing that would make you think too hard.
+In the attention economy, all of these practices make business sense. Dishonesty gets you more clicks per post, putting out constant drivel creates more aggregate clicks. The problem is that this creates an internet that looks like a never-ending tabloid rack in the grocery store checkout line. Shocking headlines about people you don't care about, personalities famous for their own fame, nothing that would make you think too hard. *Just click.*
 
 ---
 ### Sources, resources, links

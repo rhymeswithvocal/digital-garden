@@ -4,7 +4,7 @@ title: Scenes and Scenius
 
 I think it's pretty hard to overstate the importance of a good scene. What's a scene? One of my favorite definitions comes from [@visakanv on twitter](https://twitter.com/visakanv/status/1153706486586994688):
 
-> ### any small group of people loosely-but-truly aligned on something ... producing public-facing work that's directed at each other
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">one of my recurring talking points to anybody who&#39;s willing to listen: <br><br>any small group of people loosely-but-truly aligned on something can create powerful vectors by producing public-facing work that&#39;s directed at each other<br><br>talking about the creation of scenes, basically</p>&mdash; visa is damp and cold 🌧 (@visakanv) <a href="https://twitter.com/visakanv/status/1153706486586994688?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So if we deconstruct some of the important elements there:
 - **small group** -- Visa posits that a scene doesn't need any more than two people, but that you'll usually want more, in order to ensure you've got sufficient talent within the group
@@ -29,7 +29,11 @@ Eno posits that scenius is the "intelligence of a whole." Rather than individual
 - **Tolerance for the novelties** -- space is afforded for mavericks and renegades so that local [[wet blanket regimes]] won't harsh their (weird, transgressive, innovative) vibe
 	- This one is not quite the same as [[psychological safety]] because it's more about safety from judgment from outside the group, but it's definitely similar. Psych safety may well be baked into mutual appreciation.
 
-Building scenes is really difficult. Folks like Visa who are proponents of [[learning in public]] might posit that you don't need to go looking for scene-mates, just do your work 
+Building scenes is really difficult. Folks like Visa who are proponents of [[learning in public]] might posit that you don't need to go looking for scene-mates, just do your work out in the open. If You Build It etc. etc. etc.
+
+### Collecting conversations about scene
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is how music is supposed to work! It’s not supposed to only be a thing some people make and other people hear, it is communal! It is evolutionary!</p>&mdash; Jessica Ellis (@baddestmamajama) <a href="https://twitter.com/baddestmamajama/status/1349408278296494081?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 ### Sources, resources, links
