@@ -31,7 +31,7 @@ Eno posits that scenius is the "intelligence of a whole." Rather than individual
 
 Building scenes is really difficult. Folks like Visa who are proponents of [[learning in public]] might posit that you don't need to go looking for scene-mates, just do your work out in the open. If You Build It etc. etc. etc.
 
-### Collecting conversations about scene
+## Collecting conversations about scene
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is how music is supposed to work! It’s not supposed to only be a thing some people make and other people hear, it is communal! It is evolutionary!</p>&mdash; Jessica Ellis (@baddestmamajama) <a href="https://twitter.com/baddestmamajama/status/1349408278296494081?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
