@@ -32,6 +32,16 @@ I did want to take this opportunity to save an excellent quote from one of my pr
 
 Which is to say, your skills and abilities in a particular craft make it possible to turn the things you're picturing in your head into an artistic product that exists in the real world. As a novice practitioner of an art form, your ability to visualize a project will always be stronger than your technique, thus creating a Taste Gap.
 
+## Guilt
+
+I was listening to an episode of [Reply All](https://gimletmedia.com/shows/reply-all/z3h94o/162-the-least-you-could-do) where host Emmanuel Dzotsi had some really insightful comments about the awkwardness of white people when the topic of racism/social justice comes up.
+
+> "I actually think it's a good thing for white people to sit with their guilt. Guilt is something you feel when you realize there’s a gap between how you’re actually behaving and how you ought to be."
+
+There's a clear connection here in the language of a 'gap', even though being anti-racist and being good at making radio are pretty different. In either case, though, we experience a lot of negative emotion due to gaps in our expectations and the reality. When we expect to be good, anti-racist people and we aren't, we feel guilt. When we expect to make an awesome piece of art and we don't, we feel... embarrassment? Shame?
+
+Either way, the gut reaction to both bad feelings is to shy away from things that will make us feel that way. If we're going to become better people on a human front, or better practitioners on a skill front, the only way is to work through the negative feelings, process them, and let them fuel our improvement.
+
 ## Gifted Kids
 
 Roughly once a month, Twitter creates a tweet that looks something like this:
