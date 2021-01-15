@@ -24,4 +24,5 @@ I'm really compelled by this idea, so I'm trying to plant a garden of my own her
 
 ---
 ### Sources, resources, links
+- The [Robot Face post](https://robotface.substack.com/p/digital-gardens) that got me started down this rabbit hole
 - Sean Wang (swyx) wrote a great [Terms of Service for Digital Gardens](https://www.swyx.io/digital-garden-tos/)

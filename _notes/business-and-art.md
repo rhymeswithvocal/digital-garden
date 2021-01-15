@@ -32,3 +32,6 @@ On the other end of the spectrum, a bad season for a local business or a poorly-
 ## The best way to succeed is having successful mentors
 
 Usher is to Justin Bieber what Y Combinator was to Airbnb. When I say 'best' what I mean is fastest, cheapest, least risky. The recipients of powerful mentorship don't deserve their success any less than those that had to make it without the help, but it's worth bearing in mind the leg up that such support brings.
+
+---
+### Sources, resources, links
