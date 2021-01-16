@@ -19,5 +19,7 @@ In the attention economy, all of these practices make business sense. Dishonesty
 
 ---
 ### Sources, resources, links
+
 A lot of what gets made ends up being [[ambient content]].
+
 There'd be less fake nonsense if folks were more comfortable [[sucking at stuff]].

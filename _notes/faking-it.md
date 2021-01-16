@@ -26,7 +26,7 @@ Really, 'Faking it' just means putting yourself slightly beyond your own comfort
 
 ### Some Great Tweets by Smart People on This Topic
 
-(pretty sure these are both threads, so worth clicking on)
+(these are both threads, so worth clicking on)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">a thought on imposter syndrome: if you fear that you are a fraud among a certain group of people, it may mean that you dont trust this community or whoever brought you into this space. what helps me is to ask: “do i trust them and their ability to know who is an imposter or not”</p>&mdash; jonny sun has a new book coming out in april! (@jonnysun) <a href="https://twitter.com/jonnysun/status/1141911481166028807?ref_src=twsrc%5Etfw">June 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

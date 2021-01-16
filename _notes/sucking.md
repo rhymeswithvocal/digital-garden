@@ -56,6 +56,7 @@ If this post sucks, maybe you should check back in a few years.
 
 ---
 ### Sources, resources, links
+
 Sucking at stuff is not quite a lesson in the [[School of Hard Knocks]] since your main obstacle is your own judgment, not any external harm.
 
 James clear has an [excellent blog post](https://jamesclear.com/ira-glass-failure) about Ira Glass and the taste gap.
