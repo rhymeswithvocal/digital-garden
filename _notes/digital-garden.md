@@ -1,5 +1,6 @@
 ---
 title: Digital Gardens
+status: Testing
 ---
 
 My most recent obsession is with the concept of **digital gardens**, which I originally found thanks to the [Robot Face newsletter](https://robotface.substack.com/). The concept is pretty simple: the Feed or Timeline format that dominates most social media is too transient and focused on the present moment. Thoughts pop up and fade away with little impact or connection. On the other end of this spectrum is the highly-durable and highly-polished content that gets printed in books. (As I type this, I realize that I'm visualizing an [awesome illustration from Maggie Appleton's blog.](https://maggieappleton.com/garden-history))
@@ -23,6 +24,8 @@ The digital garden is a powerful tool for [[learning in public]] because you thr
 [Maggie Appleton's Digital Garden](https://maggieappleton.com/garden)
 
 [Tom Critchlow's Personal Wiki](https://tomcritchlow.com/wiki/)
+
+[The XXIIVV Wiki](https://wiki.xxiivv.com/site/home.html)
 
 [Are.na](https://www.are.na/) is a platform made to build interconnected notes that's very popular, or at least very talked about
 
