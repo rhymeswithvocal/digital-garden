@@ -26,7 +26,7 @@ Eno posits that scenius is the "intelligence of a whole." Rather than individual
 - **Mutual appreciation** -- the simultaneous uplifting and goading on of friendly competition and supportive exploration
 - **Rapid exchange of tools and techniques** -- creatives within a scene constantly borrowing and building on one another's good ideas
 - **Network effects of success** -- one person's success becoming the success of the scene, which elevates everyone and pushes the work forward
-- **Tolerance for the novelties** -- space is afforded for mavericks and renegades so that local [[wet blanket regimes]] won't harsh their (weird, transgressive, innovative) vibe
+- **Tolerance for the novelties** -- space is afforded for mavericks and renegades so that local [[wet blankets]] won't harsh their (weird, transgressive, innovative) vibe
 	- This one is not quite the same as [[psychological safety]] because it's more about safety from judgment from outside the group, but it's definitely similar. Psych safety may well be baked into mutual appreciation.
 
 Building scenes is really difficult. Folks like Visa who are proponents of [[learning in public]] might posit that you don't need to go looking for scene-mates, just do your work out in the open. If You Build It etc. etc. etc.

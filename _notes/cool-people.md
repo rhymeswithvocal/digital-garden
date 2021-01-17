@@ -8,6 +8,8 @@ I think this should be obvious, but life is better when you know cool people.
 ---
 ### Sources, resources, links
 
+An awesome [short blog post](https://austinkleon.com/2017/11/24/have-you-tried-making-yourself-a-more-interesting-person/) from Austin Kleon
+
 It's worth noting that one of the ways you convince cool people that you're also a cool person is by [[faking it]].
 
 Know enough cool people and you may discover you've become a part of one or more [[scenes]].

@@ -11,7 +11,7 @@ Editing is hard for plenty of reasons:
 
 ## Kill your Darlings
 
-This is really common advice to writers; get rid of the things you most enjoy if they aren't helping your piece overall. 
+This is really common advice to writers: get rid of the things you most enjoy if they aren't helping your piece overall. Some honest [[criticism]] is extremely useful for this, but oftentimes it falls on you to be your own critic, and rip out the parts of the thing you made that aren't serving their purpose.
 
 ## Kill your not-Darlings too
 

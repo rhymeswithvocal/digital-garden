@@ -60,3 +60,5 @@ If this post sucks, maybe you should check back in a few years.
 Sucking at stuff is not quite a lesson in the [[School of Hard Knocks]] since your main obstacle is your own judgment, not any external harm.
 
 James clear has an [excellent blog post](https://jamesclear.com/ira-glass-failure) about Ira Glass and the taste gap.
+
+Baron Schwartz has an [excellent blog post](https://www.xaprb.com/blog/worth-doing-badly/) about how doing things badly is not just good for development, but also for present happiness.
