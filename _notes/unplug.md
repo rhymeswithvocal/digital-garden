@@ -12,7 +12,7 @@ My [[relationships|relationship]] with my phone isn't what it should be. It exis
 
 ## Things that happen online are boring
 
-Due in large part to the [[laws of content]] most of what gets put onto the internet is really uninteresting. Anne Li [identified her own issues](https://anli.io/portfolio/escaping-web) with social media as being rooted mostly in the content: she wasn't seeing much of what she was interested in, but got a **lot** of time-wasting garbage.
+Due in large part to the [[laws of content]] most of what gets put onto the internet is really uninteresting. Anne Li [identified her own issues](https://anli.io/portfolio/escaping-web) with social media as being rooted mostly in the content: she wasn't seeing much of what she was interested in, but got a **lot** of time-wasting garbage. My friends that use Tiktok have especially noted this as a feature of the app: you see **lots** of videos that aren't really that good/interesting/what-have-you, but every once in a while you get a really good one, so you stay scrolling, hoping for more finds. 
 
 ---
 ### Sources, resources, links

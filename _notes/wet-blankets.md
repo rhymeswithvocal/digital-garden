@@ -23,4 +23,4 @@ This is a hybrid of cynicism and control-issues. An imagination-disbeliever says
 ---
 ### Sources, resources, links
 
-Wet Blankets do not give honest [[criticism]] because true criticism is supportive of new ideas
+Wet Blankets do not give honest [[criticism]] because true criticism is supportive of new ideas.

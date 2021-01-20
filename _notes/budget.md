@@ -26,7 +26,7 @@ Nobody that manages to shorten their commute uses it to spend more time at the o
 
 ## What's the takeaway?
 
-Much like our [[focus on|focus]], our money and time are resources that are finite. All three have the nasty habit of slipping away into things we don't want, need, or care about. 
+Much like our [[focus on||focus]], our money and time are resources that are finite. All three have the nasty habit of slipping away into things we don't want, need, or care about.
 
 ---
 ### Sources, resources, links

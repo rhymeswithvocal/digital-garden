@@ -27,11 +27,13 @@ This is transcribed from a recipe that my aunt sent me.
 - might experiment next time with chilling dough before baking
 
 ### Batch 2 - 1.?.21
+- decreased the baking powder, improved flavor
 - grated the butter, effective but very messy
 - good rise
 - didn't have honey, definitely noticeable flavor change
 
 ### Batch 1 - 1.9.21
 - cut biscuits too small, inside was dry
+- bit of a chemical flavor
 - struggled getting butter to right size with hands
 - not much rise
