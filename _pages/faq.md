@@ -26,6 +26,6 @@ Since this blog is a digital garden, it doesn't operate on a regular write/publi
 
 ### How did you build this site?
 
-This site is built using [Jekyll](https://jekyllrb.com/) and [Netlify](https://netlify.app/).
+This site is built using [Jekyll](https://jekyllrb.com/) and [Netlify](https://netlify.app/). It runs off a [Github repo](https://github.com/rhymeswithvocal/digital-garden) that I've made public.
 
 The remarkable template I used to build this blog is by Maxime Vaillancourt, whom you can find online [here](https://maximevaillancourt.com/).
