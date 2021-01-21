@@ -28,7 +28,7 @@ If you're looking for a specific (or a non-specific) note, check below:
 {% capture note_time %} {{note.last_modified_at | date: "%s"}} {% endcapture %}
 {% assign note_time_no = note_time | plus: 0 %}
 {% if note_time_no > now_time_no %}
- <a href="{{note.url}}" class="internal-link">{{note.title}}</a> {{note.last_modified_at | date: "%s"}} - {{note_time_no}} - {{now_time}}<br>
+ <a href="{{note.url}}" class="internal-link">{{note.title}}</a><br>
 {% endif %}
 {% endfor %}
 </div>
