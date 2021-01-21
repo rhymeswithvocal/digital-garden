@@ -21,6 +21,13 @@ This is transcribed from a recipe that my aunt sent me.
 
 ## Attempt Log
 
+### Batch 4 - 1.21.21
+- cut up the butter before mixing, big help
+- great rise on this batch, butter definitely stayed colder
+- little bit doughy/underbaked in the middle. Attributed to:
+	- put dough in freezer for about 15 mins before baking
+	- cut biscuits a lot bigger than usual
+
 ### Batch 3 - 1.18.21
 - not as much rise, butter had melted a bit
 - need to cut frozen butter before added to the bowl
