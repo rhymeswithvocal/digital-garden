@@ -23,3 +23,7 @@ This great tweet from [deepfates](https://twitter.com/deepfates) hits on the sam
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the power of Remembering and Forgetting is way more important than a Big Heap of Notes. see: <a href="https://t.co/vQFv4KYlto">https://t.co/vQFv4KYlto</a></p>&mdash; eater of tome (@deepfates) <a href="https://twitter.com/deepfates/status/1348072196153831425?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
+### Sources, resources, links
+
+I want to read and factor in [this article](https://boingboing.net/2021/01/19/writing-lessons-from-tom-stoppards-script-doctoring-on-indiana-jones-and-the-last-crusade.html) at some point

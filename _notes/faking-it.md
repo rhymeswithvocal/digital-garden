@@ -4,6 +4,8 @@ title: Faking It
 
 'Fake it til you make it' is a decent slogan, but aren't we supposed to be honest about our own abilities? Sure, but the problem with that approach is that it's too reliant on an accurate self-perception.
 
+<img src="..assets/faking.png">
+
 ### A Quick Anecdote
 
 In high school, I met one of my best friends and learned that he was a very talented guitarist. I'd wanted to start a band for some time, so I told him that I played the bass and we should jam sometime.
