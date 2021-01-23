@@ -20,19 +20,21 @@ If you're looking for a specific (or a non-specific) note, check below:
 
 {% include notes_graph.html %}
 
-# Note(s) I've worked on in the last day:
+# Notes I've worked on recently:
 <div>
 {% capture now_time %} {{'now' | date: "%s"}} {% endcapture %}
-{% assign now_time_no = now_time | minus: 86400 %}
-{% for note in site.notes %}
+{% assign now_time_no = now_time | minus: 604800 %}
+{% assign notes = site.notes | sort: "last_modified_at" | reverse %}
+{% for note in notes | limit: 5 %}
 {% capture note_time %} {{note.last_modified_at | date: "%s"}} {% endcapture %}
 {% assign note_time_no = note_time | plus: 0 %}
-{% if note_time_no > now_time_no %}
- <a href="{{note.url}}" class="internal-link">{{note.title}}</a><br>
+{% if note_time_no <= now_time_no %}
+	{% break %}
+{% else %}
+ <a href="{{note.url}}" class="internal-link">{{note.title}}</a> <span style="color: grey"> - {{note.last_modified_at | date: "%b %d"}}</span><br>
 {% endif %}
 {% endfor %}
 </div>
-
 
 <!-- <style>
   .wrapper {
