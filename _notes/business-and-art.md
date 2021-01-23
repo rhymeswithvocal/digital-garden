@@ -1,5 +1,6 @@
 ---
 title: Business/Art Parallels
+status: growing
 ---
 As a person with a lot of interest in both art and entrepreneurship, it felt like I should go ahead and start keeping a log of things that I noticed were applicable between the two worlds.
 

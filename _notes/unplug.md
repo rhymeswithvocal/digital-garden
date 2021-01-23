@@ -1,5 +1,6 @@
 ---
 title: Technology Suuuuuucks
+status: growing
 ---
 
 The woman who babysat me when I was 2 was 73 at the time. She's 93 now. She's never owned a computer, and I kind of envy her for it. Writing her letters every few weeks is one of the most intentional, mindful practices I have. I started this blog in large part because I'm unhappy with how I exist on the internet. So how do I get better at it? How do we all get better at it?

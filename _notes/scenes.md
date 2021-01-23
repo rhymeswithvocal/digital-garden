@@ -1,5 +1,6 @@
 ---
 title: Scenes and Scenius
+status: fruit
 ---
 
 I think it's pretty hard to overstate the importance of a good scene. What's a scene? One of my favorite definitions comes from [@visakanv on twitter](https://twitter.com/visakanv/status/1153706486586994688):

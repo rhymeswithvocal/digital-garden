@@ -1,5 +1,6 @@
 ---
 title: The Laws of Content
+status: growing
 ---
 A couple of ways the internet incentivizes making **lots** of mediocre and/or dishonest garbage.
 

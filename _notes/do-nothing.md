@@ -1,5 +1,6 @@
 ---
 title: Do Nothing
+status: seed
 ---
 
 ## Idle time is learning time

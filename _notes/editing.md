@@ -1,5 +1,6 @@
 ---
 title: Writing is Rewriting
+status: growing
 ---
 
 Editing is the hardest part of any pursuit, which is why it's also the most important. Whether it's a song, a script, an article, or even just an email, there's nothing quite as arduous as the process of taking your first attempt and making it better.

@@ -1,5 +1,6 @@
 ---
 title: Know Cool People
+status: growing
 ---
 I think this should be obvious, but life is better when you know cool people.
 

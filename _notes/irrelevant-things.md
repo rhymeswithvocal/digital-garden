@@ -1,5 +1,6 @@
 ---
 title: Know Irrelevant Things
+status: seed
 ---
 
 I think titling this note "be curious" would be too vague, but I do think it's basically what the conversation is about.

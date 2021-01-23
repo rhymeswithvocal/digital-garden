@@ -1,5 +1,6 @@
 ---
 title: Lessons from Building this Site
+status: growing
 ---
 In the interest of doing some [[Learning in Public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
 

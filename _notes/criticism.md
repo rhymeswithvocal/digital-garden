@@ -1,5 +1,6 @@
 ---
 title: Criticism as Love
+status: growing
 ---
 
 Giving good criticism is really difficult, which is one of the reasons I think it's the nicest thing somebody can do for me.

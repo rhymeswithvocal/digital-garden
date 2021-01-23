@@ -1,5 +1,6 @@
 ---
 title: Budgets = Freedom
+status: growing
 ---
 
 One of my favorite bits of philosophy/ad copy is from You Need a Budget:

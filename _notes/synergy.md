@@ -1,5 +1,6 @@
 ---
 title: Synergy
+status: growing
 ---
 Synergy got mentioned a lot in my undergrad [[business school]] and I would love to say that it made a lot of sense to me and seemed a worthwhile use of my very limited life. But alas, it was just as vague and buzzwordy there as it is in most contexts.
 

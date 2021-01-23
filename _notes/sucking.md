@@ -1,5 +1,6 @@
 ---
 title: Sucking at Stuff
+status: fruit
 ---
 Being bad at things is painful. My fragile ego and I do **not** enjoy it. Unfortunately, lots of very wise people (and a very wise cartoon dog) have agreed:
 

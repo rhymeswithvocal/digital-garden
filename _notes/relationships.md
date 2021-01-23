@@ -1,5 +1,6 @@
 ---
 title: Everything is a Relationship
+status: seed
 ---
 
 I'm not sure what this note will be beyond the titular assertion, but I have a feeling this is going to tie to basically every single note I make, if I want it to.

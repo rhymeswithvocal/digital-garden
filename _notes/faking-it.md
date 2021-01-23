@@ -1,5 +1,6 @@
 ---
 title: Faking It
+status: growing
 ---
 
 'Fake it til you make it' is a decent slogan, but aren't we supposed to be honest about our own abilities? Sure, but the problem with that approach is that it's too reliant on an accurate self-perception.

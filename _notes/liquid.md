@@ -1,5 +1,6 @@
 ---
 title: Liquid
+status: growing
 ---
 
 One of the [[Lessons from Building this Site]] is picking up a general familiarity with Liquid, which according to their site is

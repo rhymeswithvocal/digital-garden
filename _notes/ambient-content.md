@@ -1,5 +1,6 @@
 ---
 title: Ambient Content
+status: growing
 ---
 
 If you've read the New Yorker article about Emily in Paris, you already know this term.

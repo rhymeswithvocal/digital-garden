@@ -1,5 +1,6 @@
 ---
 title: Things I've Learned in Therapy
+status: fruit
 ---
 
 ## Following the Fear

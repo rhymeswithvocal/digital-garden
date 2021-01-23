@@ -1,5 +1,6 @@
 ---
 title: School of Hard Knocks
+status: seed
 ---
 
 I started writing this on Bean Dad Day to unpack and examine some of my thoughts around learning from failure.

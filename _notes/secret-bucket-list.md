@@ -1,5 +1,6 @@
 ---
 title: The Secret Bucket List
+status: fruit
 ---
 
 If you've played more than a couple of video games, you're probably familiar with the concept of hidden objectives. (If you aren't, don't worry—we won't spend too long in this metaphor.) Somewhere alongside your list of known goals and potential achievements is a list that looks like this:

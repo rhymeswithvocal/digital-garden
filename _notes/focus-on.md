@@ -1,5 +1,6 @@
 ---
 title: What you Focus On Matters
+status: seed
 ---
 # Especially when it doesn't matter
 
