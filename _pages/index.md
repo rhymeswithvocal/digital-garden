@@ -25,7 +25,7 @@ If you're looking for a specific (or a non-specific) note, check below:
 {% capture now_time %} {{'now' | date: "%s"}} {% endcapture %}
 {% assign now_time_no = now_time | minus: 604800 %}
 {% assign notes = site.notes | sort: "last_modified_at" | reverse %}
-{% for note in notes | limit: 5 %}
+{% for note in notes limit: 5 %}
 {% capture note_time %} {{note.last_modified_at | date: "%s"}} {% endcapture %}
 {% assign note_time_no = note_time | plus: 0 %}
 {% if note_time_no <= now_time_no %}

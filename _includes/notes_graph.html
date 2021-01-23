@@ -22,13 +22,25 @@
     fill: black;
   }
 
+  .nodes [growth_phase = "growing"] {
+    fill: #7fb800;
+  }
+
+  .nodes [growth_phase = "seed"] {
+    fill: #373d20;
+  }
+
+  .nodes [growth_phase = "fruit"] {
+    fill: #FF934F;
+  }
+
   .inactive {
     opacity: 0.1;
     transition: all 0.15s ease-out;
   }
 
   #graph-wrapper {
-    background: #c0d3fa;
+    background: #f2f7f2;
     border-radius: 4px;
     height: auto;
   }
@@ -270,6 +282,7 @@
 
       node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+      node.attr("growth_phase", (d) => d.status);
 
       simulation.nodes(nodesData);
       simulation.force("link").links(linksData);
