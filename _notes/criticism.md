@@ -25,3 +25,5 @@ Obviously, it's easy to take criticism too personally. However, I think there's 
 ### Sources, resources, links
 
 Adam Grant's [WorkLife episode](https://www.ted.com/talks/worklife_with_adam_grant_how_to_love_criticism/transcript?language=en) on criticism.
+
+This [blog post](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c) needs to be incorporated at some point.
