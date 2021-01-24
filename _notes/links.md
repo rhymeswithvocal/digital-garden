@@ -6,7 +6,7 @@ status: seed
 I have developed a very nasty habit in the past few weeks of leaving dozens of links open in chrome. Not a good workflow. Sometimes I've got a note started that the links are relevant to, and I can save them there. But more often, they just sit. So I'm going to try collecting my links here and returning to them regularly.
 
 ## General Reading
-[Shawn Wang's post on blogging](https://www.swyx.io/three-strikes/)
+[Shawn Wang's post on naming things](https://www.swyx.io/how-to-name-things/)
 <a href="https://tomcritchlow.com/2021/01/14/new-browsers/">Why can&#39;t I write code inside my browser?</a><br/>
 <a href="https://notes.azlen.me/g3tibyfv/">About these notes</a><br/>
 <a href="https://zettelkasten.de/">Zettelkasten knowledge and info management &bull; Zettelkasten Method</a><br/>
@@ -17,6 +17,11 @@ I have developed a very nasty habit in the past few weeks of leaving dozens of l
 
 ## Tech Topics
 The vast majority of these will relate to [[lessons on this site|building the garden]]. Things that I've used/made sense of will go in the relevant branches of that page.
+
+### JS
+<a href="http://www.javascriptkit.com/javatutors/random2.shtml">Creating a random link out of a specified group of links</a><br/>
+<a href="http://www.javascriptkit.com/javatutors/random3.shtml">Creating a random link out of all of the links in a document</a><br/>
+
 
 ### jQuery
 <a href="https://www.w3schools.com/jquery/html_attr.asp">jQuery attr() Method</a><br/>
