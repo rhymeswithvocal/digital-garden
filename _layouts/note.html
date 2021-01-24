@@ -4,8 +4,17 @@ layout: default
 
 <article>
   <div>
-    <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+    <h1>{{ page.title }}</h1> 
+    <p style="display: inline;">{% if page.status == "seed" %}
+          🌱
+        {% elsif page.status == "growing" %}
+          🌿
+        {% elsif page.status == "fruit" %}
+          🍊
+        {% else %}
+          ...
+        {% endif %} | </p>
+    <time style="display: inline;" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
