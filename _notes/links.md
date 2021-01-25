@@ -10,7 +10,6 @@ I have developed a very nasty habit in the past few weeks of leaving dozens of l
 <a href="https://notes.azlen.me/g3tibyfv/">About these notes</a><br/>
 <a href="https://zettelkasten.de/">Zettelkasten knowledge and info management &bull; Zettelkasten Method</a><br/>
 <a href="https://rosano.hmm.garden/01etag49zpy2jz472n6zyba998">Designed to disappear</a><br/>
-<a href="https://www.vox.com/the-goods/21523704/fun-quarantine-home">Are there fun things to do in quarantine? - Vox</a><br/>
 
 
 ## Tech Topics
