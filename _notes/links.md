@@ -6,11 +6,9 @@ status: branch
 I have developed a very nasty habit in the past few weeks of leaving dozens of links open in chrome. Not a good workflow. Sometimes I've got a note started that the links are relevant to, and I can save them there. But more often, they just sit. So I'm going to try collecting my links here and returning to them regularly.
 
 ## General Reading
-[Shawn Wang's post on naming things](https://www.swyx.io/how-to-name-things/)
 <a href="https://tomcritchlow.com/2021/01/14/new-browsers/">Why can&#39;t I write code inside my browser?</a><br/>
 <a href="https://notes.azlen.me/g3tibyfv/">About these notes</a><br/>
 <a href="https://zettelkasten.de/">Zettelkasten knowledge and info management &bull; Zettelkasten Method</a><br/>
-<a href="https://boingboing.net/2021/01/19/writing-lessons-from-tom-stoppards-script-doctoring-on-indiana-jones-and-the-last-crusade.html">Writing lessons from Tom Stoppard&#39;s script doctoring on INDIANA JONES AND THE LAST CRUSADE | Boing Boing</a><br/>
 <a href="https://rosano.hmm.garden/01etag49zpy2jz472n6zyba998">Designed to disappear</a><br/>
 <a href="https://www.vox.com/the-goods/21523704/fun-quarantine-home">Are there fun things to do in quarantine? - Vox</a><br/>
 
