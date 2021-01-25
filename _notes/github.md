@@ -1,6 +1,6 @@
 ---
-title: Git 
-status: seed
+title: Git & Github
+status: branch
 ---
 
 This isn't one of the direct [[Lessons from Building this Site]] but it's definitely come up a lot, and I want to keep track of my resources someplace.

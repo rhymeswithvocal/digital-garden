@@ -1,6 +1,6 @@
 ---
 title: Link Library
-status: seed
+status: branch
 ---
 
 I have developed a very nasty habit in the past few weeks of leaving dozens of links open in chrome. Not a good workflow. Sometimes I've got a note started that the links are relevant to, and I can save them there. But more often, they just sit. So I'm going to try collecting my links here and returning to them regularly.

@@ -1,6 +1,6 @@
 ---
 title: Lessons from Building this Site
-status: growing
+status: branch
 ---
 In the interest of doing some [[Learning in Public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
 
@@ -31,5 +31,6 @@ Once again, a truly massive thanks to [Maxime Vaillancourt](https://maximevailla
 - The most joyous part of publishing this blog has to be watching the map on the homepage reconfigure itself, which is great because it incentivizes creating notes that are related to many others, and creating copious links
 
 - I! Need! To! Save! More! Links! I keep losing awesome blog content from other folks' gardens because I think "oh that's neat I'm sure I'll find it again" and then I absolutely do not. It's lost forever. Major bummer. I think the solution is to be willing to have more notes that are basically **only** a collection of links. I can circle back to them later and add my own thoughts.
+	- one part of the solution to this is the [[links library]]
 
 - You can search all the files within a folder in Sublime Text by hitting `cmd-shift-F`
