@@ -6,7 +6,7 @@
 
   .nodes circle {
     cursor: pointer;
-    fill: #247ba0;
+    fill: #cccccc;
     transition: all 0.15s ease-out;
   }
 
@@ -23,6 +23,10 @@
   }
 
   .nodes [growth_phase = "growing"] {
+    fill: #7fb800;
+  }
+
+  .nodes [growth_phase = "branch"] {
     fill: #7fb800;
   }
 

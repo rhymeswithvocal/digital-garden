@@ -97,6 +97,13 @@ a {
   }
 }
 
+a.bechill {
+  border-bottom: 0px;
+  &:hover {
+  background: #ffffff;
+  }
+}
+
 *:focus {
   background: #dfff99 !important;
   color: black !important;

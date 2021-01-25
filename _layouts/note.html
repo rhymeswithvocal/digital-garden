@@ -6,11 +6,13 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1> 
     <p style="display: inline;">{% if page.status == "seed" %}
-          🌱
+          <a href="/nav" class="internal-link bechill">🌱</a>
         {% elsif page.status == "growing" %}
-          🌿
+          <a href="/nav" class="internal-link bechill">🌿</a>
         {% elsif page.status == "fruit" %}
-          🍊
+          <a href="/nav" class="internal-link bechill">🍊</a>
+        {% elsif page.status == "branch" %}
+          <a href="/nav" class="internal-link bechill">🌳</a>
         {% else %}
           ...
         {% endif %} | </p>
