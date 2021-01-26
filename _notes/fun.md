@@ -1,5 +1,5 @@
 ---
-title: fun
+title: What is Fun?
 status: seed
 ---
 
