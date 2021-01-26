@@ -18,3 +18,4 @@ Due in large part to the [[laws of content]] most of what gets put onto the inte
 ---
 ### Sources, resources, links
 
+I think I need a new note to talk about my [[grievances with Online]] because they are becoming more multitudinous on this blog.

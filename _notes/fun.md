@@ -1,6 +1,6 @@
 ---
 title: What is Fun?
-status: seed
+status: fruit
 ---
 
 I have fun sometimes. I don't have a very strong framework for defining it. This [great vox article](https://www.vox.com/the-goods/21523704/fun-quarantine-home) by Rachel Sugar addressed the feeling I'd had for a while in quarantine: that fun had become nearly impossible to find. Here's their breakdowns of what makes things fun.
@@ -26,7 +26,7 @@ To be fun, something must release you from something: work, social expectations,
 
 - work can never technically be fun. Engaging or meaningful, sure. Not fun.
 
-- boundaries are important. (e.g. this is not a good way to have fun <img src="../assets/email-party.png">)
+- boundaries are important. (e.g. this is not a good way to have fun:) <img src="../assets/email-party.png">
 	- this does make me think that being able to [[unplug]] seriously improves your odds of having fun
 
 - leisure and fun are not synonymous, but leisure time is important because it creates space for fun things
@@ -39,7 +39,7 @@ Sugar arrives at the conclusion that things are no longer fun in quarantine beca
 
 > "an exercise in planning -- what is an equidistant park, is there a bathroom, will it rain? ... Instead of fun, release is yet another obligation."
 
-
+I've definitely felt this myself, the few experiences I've enjoyed during quarantine have been the moments where I'm able to put time aside and do something semi-spontaneous but still positive, safe, and different from my day-to-day. It will be interesting to see how our relationship to fun things changes when we're through being in a pandemic.
 
 ---
 ### Sources, resources, links
