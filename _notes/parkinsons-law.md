@@ -1,6 +1,6 @@
 ---
 title: Parkinson's Law
-status: seed
+status: growing
 ---
 
 I talk about this all the time but frequently forget the name for it, so I'm making a note.
@@ -12,4 +12,4 @@ I've just found that generally to be true, and it certainly factors into discuss
 ---
 ### Sources, resources, links
 
-Blog post from [Dickie Bush](https://www.dickiebush.com/articles/parkinsons) that reminded me I wanted to write about this.
+Blog post from [Dickie Bush](https://www.dickiebush.com/articles/parkinsons) that reminded me to make a note.

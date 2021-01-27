@@ -13,7 +13,7 @@ I complain a lot about the internet. I think it's much the same way that a perso
 
 We could be making and consuming so much cool stuff online! Instead, there are 1,000 reaction videos and meta-drama about meta-drama. I know this is the gripe that makes me sound the most like a crotchety old man, but I can't get over how banal things are.
 
-### So many things that could be cool become [[grift|grifts]] instead
+### So many things that could be cool become [[grifts]] instead
 
 Not that grifting couldn't happen in the real world, but it feels like so many of the things about the internet that have *exciting potential* like forming cool communities or creating opportunities to learn have instead become a #EntrepreneurMoment for tech and/or finance bros to exploit.
 

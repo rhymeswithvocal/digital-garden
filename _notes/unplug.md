@@ -1,5 +1,5 @@
 ---
-title: Technology Suuuuuucks
+title: Unplugging
 status: growing
 ---
 
