@@ -1,6 +1,6 @@
 ---
 title: All Must Hustle
-status: seed
+status: fruit
 ---
 
 I've been thinking a lot about how some people have the expectation that **everyone** should be building something, starting a business, or otherwise commodifying their own time and interest. People a lot smarter than me have talked about this, but I'm gonna make my own note anyway.
