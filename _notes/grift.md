@@ -30,13 +30,27 @@ Many online courses are, at face value, a little absurd. I'm not talking about U
 
 To which I must always say to my phone
 
-> "If you got so crazy rich doing X, why do you need the extra money from teaching a course?"
+> "If you got so crazy rich doing X, why do you need the extra money from teaching a course about X?"
 
 A great tweet on this phenomenon:
 
 <img src="../assets/c-player.png">
 
 The crazy thing is, whether or not these guys are literally a part of a pyramind scheme, they end up using roughly the same tactics. Most of the startups I've seen that are "education"-oriented are the same way: trying to sell you some notion of success that's wholly unbelievable because, well, if the person peddling it was that successful, why is their best option right now teaching this class?
+
+### Grifting is Liberation
+
+Three things that seem to unite most grifters:
+
+1. Their contempt for Corporate Life™ and all its trappings
+2. Their desire to make good money
+3. Their love of their [[hustle]]
+
+These are all super compelling selling points, with the slightly thorny parenthetical of: most grifts (the pyramidal ones) will create freedom and prosperity for the person pulling the grift, but none for you, their unsuspecting mark.
+
+### A better way is possible
+
+It's not impossible to be earnestly interested in learning and in teaching people.
 
 ---
 ### Sources, resources, links
