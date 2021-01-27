@@ -52,6 +52,10 @@ These are all super compelling selling points, with the slightly thorny parenthe
 
 It's not impossible to be earnestly interested in learning and in teaching people.
 
+### Admitting my cynicism
+
+The thing about most of the grifts I'm referring to is that they aren't *actually* scams in a definitional sense. They're the equivalent of a dude aggressively selling you his mixtape on the street. Perfectly legal, but feels a little scummy and makes you seriously question whether there's actually been any value added to your life, and by extension, the world.
+
 ---
 ### Sources, resources, links
 

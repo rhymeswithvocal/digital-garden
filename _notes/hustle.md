@@ -28,7 +28,9 @@ Because it's twitter, there was backlash. And, naturally, backlash to the backla
 
 ## What if you did things just to do them?
 
-This all leaves me feeling even more strongly how vital it is to sometimes [[do nothing]], and to [[know irrelevant things]]. It seems that being constantly on a #hustle could only leave a person feeling not only burnt out, but hollowed out, too. This isn't to say that people shouldn't be passionate about their work or interested in a side hustle, but what's the aim? One of my larger points about [[budgeting]] was the fact that accruing more money just to have more money is a one-way ride to never being happy, because there's always more money to be accrued. The hustle should have an output somewhere that matters.
+This all leaves me feeling even more strongly how vital it is to sometimes [[do nothing]], and to [[know irrelevant things]]. It seems that being constantly on a #hustle could only leave a person feeling not only burnt out, but hollowed out, too. This isn't to say that people shouldn't be passionate about their work or interested in a side hustle, but what's the aim? One of my larger points about [[budget|budgeting]] was the fact that accruing more money just to have more money is a one-way ride to never being happy, because there's always more money to be accrued. The hustle should have an output somewhere that matters.
+
+It's worth noting how enticing the mindset is, though. Even writing this blog, I can't help but occasionally think "can I turn this into a book at some pont?" As if my writing and thinking can only be valuable once I convince someone to pay for it. It's a sad cycle to be stuck in, and I'm hopeful that this practice of digital gardening can in fact be a guard against falling into the hustle trap.
 
 ---
 ### Sources, resources, links
