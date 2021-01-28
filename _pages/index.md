@@ -7,7 +7,7 @@ permalink: /
 
 # Hi and welcome!
 
-## This blog is meant as a place for me to think out loud, ponder with friends, and build an archive of personal knowledge.
+## I'm [[cbt|Charlie]]. This blog is meant as a place for me to think out loud, ponder with friends, and build an archive of personal knowledge.
 
 If you're curious about the conceptual underpinnings of this blog, check out my note about the phenomenon of [[Digital Gardens]]. The basic gist is:
 - notes are not organized chronologically
