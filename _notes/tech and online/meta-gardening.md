@@ -38,3 +38,15 @@ In general, I'd like to make keeping things organized as simple as possible, and
 ### Issues with solution 3
 
 I know that I am a person who *loves* to take things to levels of abstraction that are so detailed that they become worthless as abstractions. I'm worried I'll keep making more and more categories until it's overly detailed and also a pain to work with.
+
+# Titling Best Practices
+
+Some people are really adamant that your notes should be titled with full statements that make clear the argument of the note. I don't like that as much, also I write my notes a bit longer than a lot of the people who build their gardens out that way. What I've found to be useful is giving the note a title that's descriptive and a file-title that's short but accurate. Sometimes those are the same, but it's useful if they can be a little bit different, because it gives me two different options for back-linking.
+
+# Wishlist
+
+Some things that I think it would be cool to add to the garden:
+
+- random note button
+- search bar
+- twitter bot to tweet when I make new notes

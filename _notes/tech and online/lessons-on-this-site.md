@@ -2,7 +2,7 @@
 title: Lessons from Building this Site
 status: branch
 ---
-In the interest of doing some [[Learning in Public]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
+In the interest of doing some [[Learning in Public]] and as a practice in [[meta-gardening]] I've decided to log all of the lessons that creating and maintaining this jekyll blog teaches me.
 
 Once again, a truly massive thanks to [Maxime Vaillancourt](https://maximevaillancourt.com/) for use of his open source template.
 
