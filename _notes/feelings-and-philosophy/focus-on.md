@@ -17,4 +17,6 @@ The other part of inspiration for this came from [Chase McCoy's notes](https://c
 
 [This blog post](https://frankchimero.com/blog/2018/the-good-room/) is pretty remarkable: examines the intentionality of place and how Amish culture is just a more intentional boundary-setting
 
+[This post](https://www.mentalnodes.com/being-intentional-about-the-content-we-consume-is-an-act-of-freedom) on mentalnodes
+
 Big surprise, this is yet another form of your [[relationships]] to the different elements of your life

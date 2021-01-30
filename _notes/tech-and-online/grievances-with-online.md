@@ -19,4 +19,8 @@ Not that grifting couldn't happen in the real world, but it feels like so many o
 
 ### Everything is engineered to be addictive so you never [[unplug]]
 
-This is pretty well-documented so I don't feel the need to defend this claim too hard.
+This is pretty well-documented so I don't feel the need to defend this claim too hard. I just think it's uncool.
+
+### The lack of [[longevity in online content]]
+
+The feed goes by too quickly. I'm tired of losing things that I think are cool.
