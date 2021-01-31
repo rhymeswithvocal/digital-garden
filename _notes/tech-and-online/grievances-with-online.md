@@ -24,3 +24,7 @@ This is pretty well-documented so I don't feel the need to defend this claim too
 ### The lack of [[longevity in online content]]
 
 The feed goes by too quickly. I'm tired of losing things that I think are cool.
+
+### The dearth of [[Good Content™]]
+
+Since there isn't a lot incentivizing good things being made, good things often don't get made. When they do, they can still have a hard time finding the limelight.
