@@ -28,3 +28,7 @@ The feed goes by too quickly. I'm tired of losing things that I think are cool.
 ### The dearth of [[Good Content™]]
 
 Since there isn't a lot incentivizing good things being made, good things often don't get made. When they do, they can still have a hard time finding the limelight.
+
+### The Tech overlords don't care if you're [[tech literate]]
+
+You might argue that a lot of them want you to be less aware of how things work, where your data goes, etc.

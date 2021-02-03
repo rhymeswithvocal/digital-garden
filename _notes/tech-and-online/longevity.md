@@ -18,4 +18,6 @@ A note in [Rosano's garden](https://rosano.hmm.garden/01etag49zpy2jz472n6zyba998
 
 A post on [long content](https://www.gwern.net/About#long-content) from Gwern.net
 
+A page about [site deaths](https://indieweb.org/site-deaths) on the indieweb wiki
+
 Longevity is a great reason to [[make things from scratch]], since you aren't reliant on another platform/host/etc.

@@ -15,6 +15,8 @@ Making things is a form of learning, probably the best one. We seem to naturally
 
 If we accept that it's valuable to [[know irrelevant things]], then there's also a value in creating physical or digital products that are "inferior" to the products that we could purchase. Whether or not the food (or music, or hats) you make at home competes with store-bought, professionally-made versions, there's a value in creating something yourself. These activities enrich our lives in qualitative ways, even though the quantitative analysis might say purchasing them is the better option.
 
+Making things online is an excellent way to become more [[tech literate]].
+
 ## Making Things Means Full Control
 
 There's a great moment from one of his few interviews where Bill Wurtz is asked what music he likes and says that at times he will cut together moments from songs he enjoys, cutting out the parts he doesn't like. Not everybody cares about music enough to do that, but what if we all did? You could go the rest of your life choosing to *never* listen to even a second of a song that you didn't enjoy. A similar logic holds true for almost everything. The best way to love every part of your kitchen or desk or even music library is to custom-build. This isn't always feasible due to any number of constraints, but on the whole, more control does mean more enjoyment.
