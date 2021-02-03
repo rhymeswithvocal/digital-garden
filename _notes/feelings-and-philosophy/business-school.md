@@ -8,3 +8,4 @@ My undergrad education was in business (or 'Commerce' as it was termed at my sch
 - [[psychological safety]]
 - [[synergy]]
 - an affinity for [[frameworks]]
+- [[Goodhart's Law]]
