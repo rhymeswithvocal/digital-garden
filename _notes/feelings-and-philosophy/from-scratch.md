@@ -21,7 +21,19 @@ There's a great moment from one of his few interviews where Bill Wurtz is asked 
 
 ## "From Scratch" does not mean "without help"
 
-< insert reddit post about drum tracks and raising goats >
+One of my favorite things I've seen online a few times:
+
+<img src="../assets/goat.jpg">
+
+Which is pretty equivalent to the Carl Sagan quote:
+
+> If you wish to make an apple pie from scratch, you must first invent the universe.
+
+## Unfinished things still teach you
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">By 35 you should have at least two abandoned blogs, one dormant podcast or streaming channel, three RPG campaigns prepped but never run, and five unfinished novels (graphic, text, or interactive).</p>&mdash; Daniel Solis – New video in Pinned Tweet! (@DanielSolis) <a href="https://twitter.com/DanielSolis/status/998188821765349377?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In the same way that [[irrelevant things]] are still valuable to know, unfinished products are still valuable to make.
 
 ---
 Bill Wurtz [talking about music](https://youtu.be/e_fMuWm5vVA?t=3911) on a podcast
@@ -29,3 +41,5 @@ Bill Wurtz [talking about music](https://youtu.be/e_fMuWm5vVA?t=3911) on a podca
 A [post from pluralistic.net](https://pluralistic.net/2021/01/28/payment-for-order-flow/#knowledge-is-power) about knowledge and app-building
 
 A [post from Mental Nodes](https://www.mentalnodes.com/keep-your-levels-of-consumption-and-creation-balanced) about consumption and creation
+
+[Carl Sagan quote](https://www.youtube.com/watch?v=7s664NsLeFM&ab_channel=pkrumins)

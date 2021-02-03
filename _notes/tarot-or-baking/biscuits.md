@@ -12,7 +12,7 @@ This is transcribed from a recipe that my aunt sent me.
 	- 2 cups flour
 	- 2.5 tsp Baking Powder
 	- .5 tsp salt
-	-.5 tsp Cream of Tartar
+	- .5 tsp Cream of Tartar
 3. Add .5 cup *cold, cut* butter, mix until pea-sized
 4. Add .66 cup milk and 1 tbsp honey - mix until dough comes together
 5. Knead dough several times
@@ -21,6 +21,11 @@ This is transcribed from a recipe that my aunt sent me.
 8. Bake about 10-12 minutes
 
 ## Attempt Log
+
+### Batch 5 - 1.30.21
+- cut biscuits in 2.75in squares, consistent shape was nice
+- baked for about 15 minutes, great internal texture
+- not as much rise as I would've liked
 
 ### Batch 4 - 1.21.21
 - cut up the butter before mixing, big help
