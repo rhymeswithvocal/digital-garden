@@ -13,7 +13,13 @@ It feels like a lot of people and institutions exist exclusively to be a huge bu
 
 <img src="../assets/jeff.png">
 
-This was super duper common in undergrad [[business school]]. A req-meeter's prime directive is to do **precisely** the amount of work necessary to meet the brief. They'll squash any attempts to have fun with a project or get creative with an assignment. Their motivations are self-serving, but not hard to understand. They don't want anybody creating more effort or risk for them. Fun things are often effortful or risky. 
+This was super duper common in undergrad [[business school]]. A req-meeter's prime directive is to do **precisely** the amount of work necessary to meet the brief. They'll squash any attempts to have fun with a project or get creative with an assignment. Their motivations are self-serving, but not hard to understand. They don't want anybody creating more effort or risk for them. Fun things are often effortful or risky.
+
+### Too-Cool
+
+<img src="../assets/cool-guy.png">
+
+This can often go hand-in-hand with requirement-meeters, but being Too-Cool actually requires a bit more work and a lot more ego. Somebody who is too cool *wants* you to know that they think caring is lame and therefore beneath them. People who are too cool will brag about blowing off work or putting very minimal effort into things. The irony is that if somebody was *actually* just uninterested, they wouldn't have to go out of their way to let you know how uninterested they are.
 
 ### Imagination-Disbelievers
 
