@@ -5,9 +5,9 @@ status: branch
 
 ## Recipe
 
-This is transcribed from a recipe that my aunt sent me.
+This ~is~ was transcribed from a recipe that my aunt sent me, but I have made some changes.
 
-1. Preheat oven to 400
+1. Preheat oven to 425
 2. **sift together**:
 	- 2 cups flour
 	- 2.5 tsp Baking Powder
@@ -17,10 +17,16 @@ This is transcribed from a recipe that my aunt sent me.
 4. Add .66 cup milk and 1 tbsp honey - mix until dough comes together
 5. Knead dough several times
 6. Flatten or roll dough to .5-.75 inches high
-7. Cut dough
-8. Bake about 10-12 minutes
+7. Cut dough to 2-inch squares
+8. Bake around  minutes
 
 ## Attempt Log
+
+### Batch 6 - 2.8.21
+- Good rise!
+- Upped heat from 400 to 425, much better color on top and crust on bottom
+- Used chilled rolling pin rather than hands to flatten dough
+- Tried connecting some biscuits, did slightly increase rise but also led to underbaked insides
 
 ### Batch 5 - 1.30.21
 - cut biscuits in 2.75in squares, consistent shape was nice
