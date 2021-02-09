@@ -7,6 +7,10 @@ Sometimes just referred to as the coins, pentacles is the suit of material inter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryq_NaO_eXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# The Journey
+
+The pentacles has a good ending -- the ten is sometimes referred to just as "the wealth card".
+
 ## Three of Pentacles
 
 **Keywords:** Teamwork, Collaboration, Building // Disorganized, Conflict, Competition

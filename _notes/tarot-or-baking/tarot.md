@@ -19,17 +19,17 @@ Much like a [[digital garden]] and our brains, Tarot is built on connections bet
 
 ## Major Arcana
 
-### [[The Fool's Journey]]
+[[The Fool's Journey]]
 
 ## Minor Arcana
 
-### [[suit of wands]]
+[[Suit of Wands]]
 
-### [[suit of cups]]
+[[Suit of Cups]]
 
-### [[suit of swords]]
+[[Suit of Swords]]
 
-### [[suit of pentacles]]
+[[Suit of Pentacles]]
 
 ### Associations across models
 

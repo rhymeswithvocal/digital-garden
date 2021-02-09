@@ -11,7 +11,7 @@ Being interested in things that don't have an immediate need or benefit for you 
 
 A neat little [[think with pictures|illustration]] for thinking about areas of knowledge comes from the [jungle gym substack](https://junglegym.substack.com/p/the-t-shaped-information-diet):
 
-<img src="../assets/t-shaped.png">
+<img src="../assets/t-shaped.png" class="white-pic">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The hallmark of curiosity is a thirst for knowledge that has no obvious utility.<br><br>Being a lifelong learner is taking joy in exploration regardless of whether the discovery has immediate relevance.<br><br>The goal is to understand for the sake of understanding.</p>&mdash; Adam Grant (@AdamMGrant) <a href="https://twitter.com/AdamMGrant/status/1355549231071846410?ref_src=twsrc%5Etfw">January 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

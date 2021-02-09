@@ -23,7 +23,7 @@ Shouldn't that be easy? "Just keep doing the thing you love, even if your output
 
 Jonny Sun had his own great take on this in his [book](https://www.amazon.com/dp/B072LZXXB8):
 
-<img src="../assets/isuck.jpg" style="border-style: solid; border-radius: 8px; border-color: black;">
+<img src="../assets/isuck.jpg" class="white-pic">
 
 ## Technique
 
