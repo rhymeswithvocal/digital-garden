@@ -9,6 +9,10 @@ This note is about how everybody needing a #hustle makes being online (and alive
 
 Wikipedia has a [fun article on this](https://en.wikipedia.org/wiki/Confidence_trick) but a grifter is just a synonym for a con-man. Which is itself short for 'confidence man'. Con artists are people who trick people (their 'marks') for profit. Most of what I'm going to talk about on this note is not *technically* a con, but it feels like the people who buy into it are being swindled in some capacity.
 
+## Defining grifts is based on value
+
+The difference between a grift and an 'honest living' is highly subjective, because it hinges on the question of "does this thing being offered create real value?" and that depends on a person-by-person judgment. (Your position on the [[hater matrix]] will likely have a lot to do with this.)
+
 ### "Innovation"
 
 > Warning: Hot Takes Incoming.
