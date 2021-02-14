@@ -17,6 +17,11 @@ If you're curious about the conceptual underpinnings of this blog, check out my 
 If you're looking for a specific (or a non-specific) note, check below:
 
 # Map of the garden so far:
+<div class="key">
+<b>Key:</b><div class="seedy chonk"><span class="key-label">Seeds</span></div>
+<div class="greenie chonk"><span class="key-label">Sprouts</span></div>
+<div class="fruity chonk"><span class="key-label">Fruit</span></div>
+</div> 
 
 {% include notes_graph.html %}
 
