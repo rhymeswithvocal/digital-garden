@@ -5,7 +5,7 @@ status: branch
 
 ## Recipe
 
-This ~is~ was transcribed from a recipe that my aunt sent me, but I have made some changes.
+This ~~is~~ was transcribed from a recipe that my aunt sent me, but I have made some changes.
 
 1. Preheat oven to 425
 2. **sift together**:
