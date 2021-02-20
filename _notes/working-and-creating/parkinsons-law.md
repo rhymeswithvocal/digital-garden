@@ -1,6 +1,6 @@
 ---
 title: Parkinson's Law
-status: growing
+status: flower
 ---
 
 I talk about this all the time but frequently forget the name for it, so I'm making a note.

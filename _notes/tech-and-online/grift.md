@@ -17,9 +17,9 @@ The difference between a grift and an 'honest living' is highly subjective, beca
 
 > Warning: Hot Takes Incoming.
 > 
->Elon Musk gets too much credit; he didn't even start Tesla, he just bought it. The underground tunnel thing is a bad idea and actual public transport would be better.
+> Elon Musk gets too much credit; he didn't even start Tesla, he just bought it. The underground tunnel thing is a bad idea and actual public transport would be better.
 >
->/HotTakes
+> /HotTakes
 
 There's a space wherein actual *fraud* happens, [Theranos](https://www.businessinsider.com/theranos-founder-ceo-elizabeth-holmes-life-story-bio-2018-4)-style, but I think there's a much larger and more subtle space where things aren't fraudulent but feel like a scam, [Juicero](https://www.theguardian.com/technology/2017/sep/01/juicero-silicon-valley-shutting-down)-style. In both cases, the marks were big investors in silicon valley so hyped up on *new and innovative* that there isn't any common-sense heuristic involved.
 
@@ -64,3 +64,5 @@ The thing about most of the grifts I'm referring to is that they aren't *actuall
 ### Sources, resources, links
 
 Shawn Wang has a [great blog post](https://www.swyx.io/meta-creator-ceiling/) about meta-creators that was a big inspiration for the section about teaching.
+
+A great [Reply All episode](https://gimletmedia.com/shows/reply-all/dvhe3l) on drop-shipping

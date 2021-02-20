@@ -5,7 +5,7 @@ status: fruit
 
 I have fun sometimes. I don't have a very strong framework for defining it. This [great vox article](https://www.vox.com/the-goods/21523704/fun-quarantine-home) by Rachel Sugar addressed the feeling I'd had for a while in quarantine: that fun had become nearly impossible to find. Here's their breakdowns of what makes things fun.
 
-#Standards for something to be fun:
+# Standards for something to be fun:
 
 1. Hedonically engaging
 2. Liberating

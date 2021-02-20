@@ -1,6 +1,6 @@
 ---
 title: Goodhart's Law
-status: growing
+status: flower
 ---
 
 > "When a measure becomes a target, it ceases to be a good measure."
