@@ -49,3 +49,13 @@ permalink: /nav
 		{% endif %}
 	{% endfor %}
 </div>
+
+## Flowers - small finished notes
+
+<div>
+	{% for note in site.notes %}
+		{% if note.status == "flower" %}
+			🌸 <a href="{{note.url}}" class="internal-link">{{note.title}}</a><br>
+		{% endif %}
+	{% endfor %}
+</div>
