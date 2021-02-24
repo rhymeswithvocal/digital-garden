@@ -32,3 +32,7 @@ Since there isn't a lot incentivizing good things being made, good things often 
 ### The Tech overlords don't care if you're [[tech literate]]
 
 You might argue that a lot of them want you to be less aware of how things work, where your data goes, etc.
+
+### Why are there so many [[ads online]]?
+
+I know the answer to this one, but it does still bum me out.
