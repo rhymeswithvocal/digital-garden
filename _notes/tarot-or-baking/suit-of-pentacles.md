@@ -11,6 +11,12 @@ Sometimes just referred to as the coins, pentacles is the suit of material inter
 
 The pentacles has a good ending -- the ten is sometimes referred to just as "the wealth card".
 
+## Two of Pentacles
+
+The two of pentacles is about balance. In the background, ships navigate choppy waters, and in the foreground a juggler moves with two large coins. Jessica Dore [connected the card to play](https://twitter.com/thejessicadore/status/1363859537363623939) on Twitter.
+
+**Keywords:** Balance, Priorities, Adapting to Change // Loss of Balance, Disorganized, Overwhelmed
+
 ## Three of Pentacles
 
 **Keywords:** Teamwork, Collaboration, Building // Disorganized, Conflict, Competition
