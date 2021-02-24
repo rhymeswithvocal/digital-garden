@@ -33,5 +33,7 @@ The vast majority of these will relate to [[lessons on this site|building the ga
 <a href="https://shopify.dev/docs/themes/liquid/reference/objects/for-loops">The forloop object</a><br/>
 <a href="https://www.131-studio.com/blogs/shopify-conversion/generate-random-numbers-using-liquid-shopify">Generate random numbers using liquid in shopify &ndash; STUDIO 131 - Agence Shopify</a><br/>
 
-## "Might be useful someday"
+## "Might be useful someday" or "feels important but idk how yet"
 <a href="https://heroicons.com/">Hero Icons</a>
+
+[New Yorker article about two Jewish couples talking](https://www.newyorker.com/magazine/2011/12/12/what-we-talk-about-when-we-talk-about-anne-frank)
