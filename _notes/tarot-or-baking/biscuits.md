@@ -17,10 +17,19 @@ This ~~is~~ was transcribed from a recipe that my aunt sent me, but I have made 
 4. Add .66 cup milk and 1 tbsp honey - mix until dough comes together
 5. Knead dough several times
 6. Flatten or roll dough to .5-.75 inches high
-7. Cut dough to 2-inch squares
-8. Bake around  minutes
+7. Cut dough to 2.5-inch squares
+8. Bake around 12 minutes
 
 ## Attempt Log
+
+### Batch 7b - 2.25.21
+- eyeballed the honey, which was a mistake
+- dough way too wet, biscuits came out very flat and brown
+- still tasted good tho
+
+### Batch 7a - 2.25.21
+- good batch!
+- added about 1.5 extra Tbsp of milk to get the dough to bind
 
 ### Batch 6 - 2.8.21
 - Good rise!
