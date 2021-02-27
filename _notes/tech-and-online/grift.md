@@ -21,9 +21,9 @@ The difference between a grift and an 'honest living' is highly subjective, beca
 >
 > /HotTakes
 
-There's a space wherein actual *fraud* happens, [Theranos](https://www.businessinsider.com/theranos-founder-ceo-elizabeth-holmes-life-story-bio-2018-4)-style, but I think there's a much larger and more subtle space where things aren't fraudulent but feel like a scam, [Juicero](https://www.theguardian.com/technology/2017/sep/01/juicero-silicon-valley-shutting-down)-style. In both cases, the marks were big investors in silicon valley so hyped up on *new and innovative* that there isn't any common-sense heuristic involved.
+There's a space wherein actual *fraud* happens, [Theranos](https://www.businessinsider.com/theranos-founder-ceo-elizabeth-holmes-life-story-bio-2018-4)-style, but I think there's a much larger and more subtle space where things aren't fraudulent but feel like a scam, [Juicero](https://www.theguardian.com/technology/2017/sep/01/juicero-silicon-valley-shutting-down)-style. In both cases, the marks were big investors in silicon valley so hyped up on *new and innovative* that there isn't any common-sense "is this valuable" question.
 
-### "Teaching"
+### Gurus
 
 Many online courses are, at face value, a little absurd. I'm not talking about Udemy or Coursera or what have you. I mean the dudes (they're usually male, aren't they?) who are constantly serving you ads from their lambo, trying to convince you to buy their course on:
 
@@ -31,18 +31,25 @@ Many online courses are, at face value, a little absurd. I'm not talking about U
 - NOT drop-shipping
 - the stock market
 - crypto currency
+- reselling rare sneakers
 
 To which I must always say to my phone
 
 > "If you got so crazy rich doing X, why do you need the extra money from teaching a course about X?"
 
-A great tweet on this phenomenon:
+The answer is: they're lying (or at least bending the truth) about how much money their 'main hustle' brings in, and the real money is in being a guru. It's pretty close to a pyramid scheme, in that it constantly requires new marks to enter the machine and pay for the courses in order for anyone in the scene to make much money.
+
+### Teaching
+
+One step up on the legitimacy scale is those that are, *maybe*, offering some advice that's valuable or useful. Think "productivity hackers", self-help books, or paid courses that claim they'll improve your 'ideation' or 'personal leverage' or some other equally un-quantifiable skill.
 
 <img src="../assets/c-player.png">
 
-The crazy thing is, whether or not these guys are literally a part of a pyramind scheme, they end up using roughly the same tactics. Most of the startups I've seen that are "education"-oriented are the same way: trying to sell you some notion of success that's wholly unbelievable because, well, if the person peddling it was that successful, why is their best option right now teaching this class?
+On one hand, maybe these folks really do have something valuable to share. I'm not saying every single self-help book is useless. But the promises that these types of writers and coaches make can sound awfully similar to the gurus: rather than promise you that you'll *learn something* (which may or may not be [[irrelevant things|relevant]] to you in the immediate), these types of teachers tend to advertise that you'll *become something* different. More successful. More productive. Richer. Smarter.
 
-### Grifting is Liberation
+It's this silver-bullet rhetoric that should make anybody wary, and prompt the question *what am I actually going to get out of this?*
+
+## Grifting is Liberation
 
 Three things that seem to unite most grifters:
 
@@ -52,13 +59,17 @@ Three things that seem to unite most grifters:
 
 These are all super compelling selling points, with the slightly thorny parenthetical of: most grifts (the pyramidal ones) will create freedom and prosperity for the person pulling the grift, but none for you, their unsuspecting mark.
 
-### A better way is possible
-
-It's not impossible to be earnestly interested in learning and in teaching people.
-
 ### Admitting my cynicism
 
 The thing about most of the grifts I'm referring to is that they aren't *actually* scams in a definitional sense. They're the equivalent of a dude aggressively selling you his mixtape on the street. Perfectly legal, but feels a little scummy and makes you seriously question whether there's actually been any value added to your life, and by extension, the world.
+
+## Imagining a better future/how to have fewer grifts
+
+It's not impossible to be earnestly interested in innovating, building new things, learning and teaching people. However, grifts are often more motivated by money or clout than a sincere interest in something.
+
+To the money point, if a greater number of people were involved in meaningful [[gift economy|gift economies]], it might be possible for them to meet their comfort/luxury goals without becoming significantly wealtheir.
+
+To the clout point, if we build communities where personal fulfillment and wellness are prioritized over [[hustle]], then having a lucrative (grifty) side-gig is less important than being a positive and well-rounded person.
 
 ---
 ### Sources, resources, links
