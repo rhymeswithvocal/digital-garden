@@ -1,5 +1,5 @@
 ---
-title: Advertisements on the Web
+title: Why is the Web a Commercial Space?
 status: seed
 ---
 
