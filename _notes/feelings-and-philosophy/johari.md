@@ -1,6 +1,6 @@
 ---
 title: Johari Window
-status: seed
+status: flower
 ---
 
 Cool [[framework]] I just learned about:
