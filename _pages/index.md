@@ -28,7 +28,7 @@ If you're looking for a specific (or a non-specific) note, check below:
 # Notes I've worked on recently:
 <div>
 {% capture now_time %} {{'now' | date: "%s"}} {% endcapture %}
-{% assign now_time_no = now_time | minus: 604800 %}
+{% assign now_time_no = now_time | minus: 259200 %}
 {% assign notes = site.notes | sort: "last_modified_at" | reverse %}
 {% for note in notes %}
 {% capture note_time %} {{note.last_modified_at | date: "%s"}} {% endcapture %}
