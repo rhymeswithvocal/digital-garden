@@ -14,11 +14,11 @@ Immediately upon writing the last point, I realized it needed this nuance added.
 
 ## "Selling out" draws criticism even though it's kind of the point
 
-Selling out is a lot more literal for startups acquired by larger companies, but the term gets applied to art enough that I think this is a meaningful overlap. My take for a while has been: why wouldn't an artist want to make money with their work? Don't hate the player, hate the game.
+[[Selling out]] is a lot more literal for startups acquired by larger companies, but the term gets applied to art enough that I think this is a meaningful overlap. My take for a while has been: why wouldn't an artist want to make money with their work? Don't hate the player, hate the game.
 
 ## Scenes are generative, supportive, hard to replicate
 
-I realized pretty quickly writing about [[scenes]] was going to have to be its own post, so if you want more on that, check it out.
+I realized pretty quickly writing about [[scenes]] was going to have to be its own note.
 
 In general, scenes for artists and for entrepreneurs (mostly of the tech variety) are highly similar. You've got a bunch (or maybe a few) really passionate people all hanging out and swapping ideas. Their goal isn't to make something incredible or earth-shattering, just to have fun with their craft and have a good time building together. It's only once people outside the scene start looking in that the rest of the world realizes *wow, they've been crafting some really brilliant shit over here.*
 
