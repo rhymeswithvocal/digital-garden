@@ -22,6 +22,10 @@ This ~~is~~ was transcribed from a recipe that my aunt sent me, but I have made 
 
 ## Attempt Log
 
+### Batch 8 - 3.10.21
+- dough started pretty dry again, might need to start doing flour by weight
+- otherwise, good batch!
+
 ### Batch 7b - 2.25.21
 - eyeballed the honey, which was a mistake
 - dough way too wet, biscuits came out very flat and brown
