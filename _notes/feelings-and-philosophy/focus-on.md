@@ -20,6 +20,10 @@ This post was inspired in large part by a tweet from [deepfates](https://deepfat
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">cognitive security 101: <br><br> you have to find something to obsess over. <br> do not let this choice be made for you</p>&mdash; invisible college dropout (@deepfates) <a href="https://twitter.com/deepfates/status/1347384988279336960?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+There's also a good one from James Clear:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you choose who to follow on Twitter, you are choosing your future thoughts.</p>&mdash; James Clear (@JamesClear) <a href="https://twitter.com/JamesClear/status/1312386219599433729?ref_src=twsrc%5Etfw">October 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This is one out of many reasons that people seek to [[unplug]]. Social media is built with the objective of taking as much of your attention from you as possible, whether or not it's spent in ways that align with your goals and values.
 
 ## A quick note on "ignore it, it'll go away"
