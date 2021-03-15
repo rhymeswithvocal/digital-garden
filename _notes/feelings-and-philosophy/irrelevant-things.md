@@ -5,7 +5,7 @@ status: growing
 
 I think titling this note "be curious" would be too vague, but I do think it's basically what the conversation is about.
 
-Being interested in things that don't have an immediate need or benefit for you is important and enriching. It makes you a [[cool people|cooler and more interesting person]]. It gives you more to talk and think about, which naturally leads to more learning and discovery.
+Being interested in things that don't have an immediate need or benefit for you is important and enriching. It makes you a [[cool people|cooler and more interesting person]] living a more [[psychologically rich]] life. It gives you more to talk and think about, which naturally leads to more learning and discovery.
 
 ## ...but Master of None
 
