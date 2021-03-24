@@ -22,7 +22,7 @@ I realized pretty quickly writing about [[scenes]] was going to have to be its o
 
 In general, scenes for artists and for entrepreneurs (mostly of the tech variety) are highly similar. You've got a bunch (or maybe a few) really passionate people all hanging out and swapping ideas. Their goal isn't to make something incredible or earth-shattering, just to have fun with their craft and have a good time building together. It's only once people outside the scene start looking in that the rest of the world realizes *wow, they've been crafting some really brilliant shit over here.*
 
-I think scenes are also important places because they offer a safe environment for [[sucking at stuff]]. When people who are passionate about making things are trying out new techniques or testing new ideas, having a group of people nearby who will give feedback that's honest but not discouraging is crucial.
+I think scenes are also important places because they offer a safe environment for [[sucking at stuff]]. When people who are passionate about making things are trying out new techniques or testing new ideas, having a group of people nearby who will give feedback that's honest but not discouraging is crucial. Remember that [[criticism]] is really a form of love, here.
 
 ## The big players have the ability to experiment and fail; little players do not
 

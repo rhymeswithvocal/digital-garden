@@ -11,7 +11,10 @@ This idea lines up with a favorite and well-quoted line from Walt Whitman:
 
 > "Do I contradict myself?
 > Very well then I contradict myself,
-> (I contain multitudes)"
+> (I am large, I contain multitudes)"
+> *from Song of Myself, 51*
+
+So when is comfort with contradictions or willingness to accept things that are seemingly 'illogical' useful? Is it just for poets, or should all of us have some level of negative capability?
 
 ---
 ### Sources, resources, links
