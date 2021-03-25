@@ -77,3 +77,5 @@ To the clout point, if we build communities where personal fulfillment and welln
 Shawn Wang has a [great blog post](https://www.swyx.io/meta-creator-ceiling/) about meta-creators that was a big inspiration for the section about teaching.
 
 A great [Reply All episode](https://gimletmedia.com/shows/reply-all/dvhe3l) on drop-shipping
+
+An excellent [substack post](https://www.aliciakennedy.news/p/on-future) about how food-tech is often not focused on solving real problems, but on making money.
