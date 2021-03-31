@@ -21,6 +21,10 @@ In spaces with low [[psych safety]], people feel as though criticism will either
 
 Obviously, it's easy to take criticism too personally. However, I think there's also a certain onus on the criticizer to be sure that they're critiquing the performance and not the person. When I write a rough draft of something and someone identifies the spots where it's weak, I'm thankful for the opportunity to strengthen it. If I write a rough draft and a person says "your writing needs some improvement," that doesn't help me do a better job on that project, but it does hurt my feelings a little. It frames the weak writing as somewhat innate to me, rather than something that exists outside of me and can be improved.
 
+## Challenge Networks
+
+Adam Grant talks often about the importance of "challenge networks" in addition to support networks. Challenge networks are made up of folks that will push back on your bad ideas or weak attempts, to help you improve.
+
 ---
 ### Sources, resources, links
 
