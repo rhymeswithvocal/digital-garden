@@ -1,6 +1,6 @@
 ---
 title: Budgets = Freedom
-status: growing
+status: fruit
 ---
 
 One of my favorite bits of philosophy/ad copy is from You Need a Budget:
@@ -15,7 +15,9 @@ In myths about dragons, there's lots of reasons given for why they hoard riches.
 
 Wealth for its own sake doesn't seem to offer much benefit, unless you do have a soft belly in need of armoring. The stat that's frequently quoted is that [beyond 75k per year](http://content.time.com/time/magazine/article/0,9171,2019628,00.html) happiness doesn't really increase with increased income.
 
-The benefit of more money, once a person is past that point of having to actively worry about it, is enhancing the other aspects of one's life.
+The benefit of more money, once a person is past that point of having to actively worry about it, is enhancing the other aspects of one's life. 
+
+It is worth mentioning that another reason we like having more money is that it's an easy (i.e. reductive) [[measure]] of success.
 
 ## Efficiency is not an end to itself
 
