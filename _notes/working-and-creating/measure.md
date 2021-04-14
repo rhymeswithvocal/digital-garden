@@ -13,5 +13,10 @@ Here's an excellent tweet from Adam Grant:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many people chase wealth, status, and achievement because progress is easy to measure, failing to realize that the gains that count the most are the hardest to count.<br><br>Real growth is building character—striving to improve in generosity, integrity, humility, fairness, or courage.</p>&mdash; Adam Grant (@AdamMGrant) <a href="https://twitter.com/AdamMGrant/status/1342832685950128128?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+People are drawn to measurement, so we default to proxies that are easy to measure instead of watching the complexities we *actually* care about.
+
+Playing [[status games]] is similarly enticing, because having 'competitors' makes it clearer whether you're 'winning' or not.
+
 ---
 ### Sources, resources, links
+
