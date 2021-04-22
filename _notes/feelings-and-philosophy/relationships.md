@@ -22,3 +22,8 @@ Your relationship with your money constitutes your [[budget]]
 Your relationship with your attention is dictated by what you [[focus on]]
 
 Your relationship to your own worth and work determines if you think you're [[faking it]]
+
+---
+### Sources, resources, links
+
+[Visa on YouTube](https://www.youtube.com/watch?v=-fTi04Th0iM&ab_channel=visa) making this assertion

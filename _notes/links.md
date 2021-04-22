@@ -7,6 +7,7 @@ I have developed a very nasty habit in the past few weeks of leaving dozens of l
 
 ## General Reading
 [ETTO principle](https://notes.nick.groenen.me/notes/the-etto-principle-efficiency-thoroughness-trade-off/)
+[How to be a genius](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
 <a href="https://notes.azlen.me/g3tibyfv/">About these notes</a><br/>
 <a href="https://zettelkasten.de/">Zettelkasten knowledge and info management &bull; Zettelkasten Method</a><br/>
 
