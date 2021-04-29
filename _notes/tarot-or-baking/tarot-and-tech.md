@@ -22,6 +22,8 @@ I made [a little site](https://www.tarot.lol) that pulls cards and gives a few m
 ---
 ### Sources, resources, links
 
+A [Cool tarot site](http://plastic-idolatry.com/tarot0/#) by [Erik Osheim](http://plastic-idolatry.com/erik/)
+
 A [ML-generated set of tarot cards](http://www.lynneyun.com/spring-20-synthetic-media/2020/3/11/tarot-card-generation-with-machine-learning)
 
 [Another of those](https://github.com/scrapfishies/ai-generated-tarot)

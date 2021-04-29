@@ -6,6 +6,7 @@ status: branch
 I have developed a very nasty habit in the past few weeks of leaving dozens of links open in chrome. Not a good workflow. Sometimes I've got a note started that the links are relevant to, and I can save them there. But more often, they just sit. So I'm going to try collecting my links here and returning to them regularly.
 
 ## General Reading
+[Paul Graham on Doing What you Love](http://www.paulgraham.com/love.html)
 [ETTO principle](https://notes.nick.groenen.me/notes/the-etto-principle-efficiency-thoroughness-trade-off/)
 [How to be a genius](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
 <a href="https://notes.azlen.me/g3tibyfv/">About these notes</a><br/>
