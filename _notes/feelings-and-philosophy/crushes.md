@@ -22,7 +22,7 @@ I think this understanding aligns better with the idea of 'crushing' as somethin
 ### The (Nonexhaustive) Taxonomy of Crushes
 
 - Romantic crush: the most common form of crush, a parasocial relationship to a person you find attractive
-- Friend crush: like a crush, but platonic. A strong interest in becoming friends with somebody that you may or may not act on
+- Friend crush: like a crush, but platonic. A strong interest in becoming friends with somebody that you may or may not act on (if you do act, might become a [[platonic pursuit]])
 - Art crush: for creatives, having a fascination/infatuation with another creative's work, wanting to know them *or* their work better
 - Fascinations: Falling down rabbit holes of particular topics, areas, or hobbies. (Perhaps not a crush per se, but certainly a relative of it.)
 
