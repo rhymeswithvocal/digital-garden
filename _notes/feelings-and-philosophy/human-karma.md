@@ -1,6 +1,6 @@
 ---
 title: Human Karma
-status: sed
+status: seed
 ---
 
 - acknowledgement that Yatharth explained that my understanding of karma is Western
