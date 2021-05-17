@@ -7,6 +7,7 @@ Something I'm thinking about. Off-the-bat ideas:
 
 - self-story is context dependent which is why I struggled to write my [[cbt|personal page]] on here.
 - much like the things you [[focus on]] shaping your mental life, self-story shapes your reality
+- your self-story is also a sort of [[word magic]], where you tell it to others and they see it in you
 
 ---
 ### Sources, resources, links
