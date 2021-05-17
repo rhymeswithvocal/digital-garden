@@ -4,7 +4,7 @@ status: seed
 ---
 
 Some things I'm thinking about:
-- texting a potential new friend like you have a [[crush]]
+- texting potential new friends like you have a [[crushes]] on them
 - looking at strangers like potential friends
 - the parallel to [[date yourself]]
 
