@@ -42,6 +42,8 @@ Twitter Mutuals have the ability to become virtual collaborators, IRL Friends, f
 ---
 ### Sources, resources, links
 
+My very own [twitter thread](https://twitter.com/rhymeswithvocal/status/1394034253709647879?s=20) on this topic
+
 Nick Cammarata [doesn't use his feed](https://twitter.com/nickcammarata/status/1321685793857888256?s=20)
 
 @visakanv on [his approach to twitter](http://visakanv.com/marketing/twitter/)
