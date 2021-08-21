@@ -15,6 +15,12 @@ There's an excellent [thread](https://twitter.com/nickcammarata/status/136139083
 
 Basically, if you can be curious and enthusiastic for [[irrelevant things]], you get to derive more enjoyment from the world around you than if you have very narrow criteria for what interests or pleases you.
 
+There's also a great [video from Visa](https://youtu.be/6b8tK72pcCA) on how gratitude physically feels good. He also alludes to this tweet thread in the video:
+
+(Insert the Miss G / Visa bit about noticing and gratitude here)
+
+Which creates another important connection: gratitude comes about as a result of whatever you choose to [[focus on]].
+
 ## Gratitude is Infectious
 
 Adam Grant explains that the evolutionary benefit of gratitude is most likely bonding–making it more likely that people who help you will feel good about it, and help you again in the future. Adam says he understands it in a slightly less transactional way (now that we don't fight for our survival every day).

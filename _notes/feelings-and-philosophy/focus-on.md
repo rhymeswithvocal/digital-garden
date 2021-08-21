@@ -24,6 +24,10 @@ There's also a good one from James Clear:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you choose who to follow on Twitter, you are choosing your future thoughts.</p>&mdash; James Clear (@JamesClear) <a href="https://twitter.com/JamesClear/status/1312386219599433729?ref_src=twsrc%5Etfw">October 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+And finally from Visa:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">focus your time and energy on what you want to see more of</p>&mdash; visa is almost done ✍🏾📖 (@visakanv) <a href="https://twitter.com/visakanv/status/1324978566455468035?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This is one out of many reasons that people seek to [[unplug]]. Social media is built with the objective of taking as much of your attention from you as possible, whether or not it's spent in ways that align with your goals and values.
 
 ## A quick note on "ignore it, it'll go away"

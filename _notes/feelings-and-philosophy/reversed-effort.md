@@ -13,6 +13,11 @@ There's a level of "the harder you try the further you'll be from success" to a 
 
 <img src="../../assets/bjenny-search.png">
 
+
+## Networking
+
+Going in with an ask doesn't work, but having a fun and interesting conversation with an ask at the end can be super lucrative.
+
 There's an element of [[word magic]] to tasks requiring Reversed Effort–if you can simply convince yourself that you're able to accomplish something, then you will be.
 
 ---
