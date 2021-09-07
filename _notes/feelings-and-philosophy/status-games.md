@@ -3,9 +3,15 @@ title: Don't Play Status Games
 status: seed
 ---
 
+## Why do folks play status games?
+
+Status games, besides sometimes having rewards like money or sex, are often about an [[assertion of self]].
+
 ## Are status games avoidable?
 
 Ironically, being anti-status game can itself become a status game. (e.g. hating on popular media to prove that you're not affected by popularity)
+
+
 
 ---
 ### Sources, resources, links

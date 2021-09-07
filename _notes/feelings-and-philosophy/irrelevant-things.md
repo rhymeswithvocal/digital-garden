@@ -19,7 +19,7 @@ A neat little [[think with pictures|illustration]] for thinking about areas of k
 
 The trick about knowing irrelevant things is that they often wind up being valuable in unexpected ways. Sometimes it's as a metaphor, allowing you to think or talk about things in a different way. Often it's context that becomes transferrable to very different subjects.
 
-Adam Grant talks in his [TEDTalk on originals](https://www.youtube.com/watch?v=fxbCHn6gE3U&ab_channel=TED) about how the Mona Lisa took Michelangelo many years to complete, but that his time spent studying lenses between periods of working on the painting changed the way he painted light.
+Adam Grant talks in his [TEDTalk on originals](https://www.youtube.com/watch?v=fxbCHn6gE3U&ab_channel=TED) about how the Mona Lisa took Da Vinci many years to complete, but that his time spent studying lenses between periods of working on the painting changed the way he painted light.
 
 ---
 ### Sources, resources, links
